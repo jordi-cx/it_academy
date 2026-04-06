@@ -1,0 +1,38 @@
+IT ACADEMY - BEST PRACTICES
+
+https://github.com/IT-Academy-BCN/ita-data-analytics/blob/main/bones_practiques_p2p.md
+
+https://github.com/IT-Academy-BCN/ita-data-analytics/blob/main/bones_practiques_sql.md
+
+https://github.com/IT-Academy-BCN/ita-data-analytics/blob/main/bones_practiques_visualitzacions.md
+
+https://github.com/IT-Academy-BCN/ita-data-analytics/blob/main/bones_practiques_python.md
+
+***
+
+SQL - Bones Pràctiques:
+- Captura de Query + Results Grid + Action Output
+- Tria àlies i noms de columnes calculades clars i sense espais (total_ventas, media_gasto)
+- Mantingues el mateix idioma durant tota la consulta.
+- Evita subconsultes si l’enunciat no les exigeix. Prefereix JOIN per rendiment i claredat.
+- Utilitza USE nom_bbdd; al principi de l’script si treballaràs amb una sola base de dades.
+- Si utilitzes diverses taules, sigues consistent amb les crides: cridar-les sense especificar la taula (columna), excepte quan hi hagi coincidència de noms de columnes (taula.id), o bé, cridar-les sempre amb la taula a la qual corresponen (taula.columna). El que no s’ha de fer és combinar-ho: que a vegades afegeixis la taula i a vegades no.
+- Si estàs treballant amb diners, arrodoneix a dos decimals amb ROUND(columna, 2), TRUNCATE(columna, 2) o FORMAT(columna, 2).
+- Utilitza funcions com STR_TO_DATE, DATE_FORMAT, LEFT, RIGHT, CAST, CONCAT, segons el que se’t demani per manipular o transformar les dades.
+- Crea la base de dades. Utilitza DROP IF EXISTS per evitar errors si ja existeix. Inclou la creació de taules.
+- Inclou totes les consultes de la teva pràctica.
+- No utilitzis mai SET FOREIGN_KEY_CHECKS = 0. Això desactiva la integritat referencial i pot ocultar errors greus.
+- Evita IN o LIKE si pots fer servir =, EXISTS o JOIN. IN pot ser més costós o ambigu en alguns casos.
+- Draw.io per representar esquemes EER.
+- STR_TO_DATE() explicat: https://www.youtube.com/watch?v=z2_8cYcxfwg
+
+
+PEER-TO-PEER - Revisió i Autoavaluació:
+- La persona revisora ha llegit i entès bé el contingut abans de fer comentaris
+- Els comentaris de revisió peer-to-peer són concrets, argumentats i respectuosos
+- Els punts positius i aspectes de millora estan equilibrats i ben explicats
+- La revisió peer-to-peer està documentada dins del lliurament (ex: com a comentaris inicials/finals o en un apartat específic)
+- S’han tingut en compte els comentaris de la revisió per fer millores (indicant quines s’han aplicat i per què)
+- Si hi ha discrepàncies o dubtes entre la persona que entrega i la revisora, es documenten breument
+
+***
