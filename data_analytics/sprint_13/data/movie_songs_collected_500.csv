@@ -1,0 +1,501 @@
+song_id,year,song_title,film_title,song_composers,song_lyricists,original_artists,streams_original,streams_others,other_artists,film_directors,film_composers,oscar_nominations,oscar_wins,oscar_song_nominee,oscar_song_win,grammy_song_nominee,grammy_song_win,grammy_record_nominee,grammy_record_win
+193401,1934,The Continental,The Gay Divorcee,Con Conrad,Herb Magidson,"Fred Astaire, Ginger Rogers",65000,,,Mark Sandrich,"Kenneth Webb, Samuel Hoffenstein",5,1,Y,Y,N,N,N,N
+193402,1934,Love In Bloom,She Loves Me Not,Ralph Rainger,Leo Robin,Bing Crosby,15800,171500,The Platters,Elliott Nugent,,1,0,Y,N,N,N,N,N
+193501,1935,Lullaby Of Broadway,Gold Diggers of 1935,Harry Warren,Al Dubin,Wini Shaw,37200,7020000,Doris Day,Busby Berkeley,,2,1,Y,Y,N,N,N,N
+193502,1935,Cheek To Cheek,Top Hat,Irving Berlin,Irving Berlin,Fred Astaire,28200000,210100000,Ella Fitzgerald,William A. Seiter,,4,0,Y,N,N,N,N,N
+193503,1935,Lovely To Look At,Roberta,Jerome Kern,"Dorothy Fields, Jimmy McHugh","Fred Astaire, Ginger Rogers, Irene Dunne",218000,,,William A. Seiter,,1,0,Y,N,N,N,N,N
+193601,1936,The Way You Look Tonight,Swing Time,Jerome Kern,Dorothy Fields,Fred Astaire,7000000,269900000,Frank Sinatra,George Stevens,,2,1,Y,Y,N,N,N,N
+193602,1936,I've Got You Under My Skin,Born to Dance,Cole Porter,Cole Porter,Virginia Bruce,103400,268000000,Frank Sinatra,Roy Del Ruth,,2,0,Y,N,N,N,N,N
+193603,1936,Pennies From Heaven,Pennies from Heaven,Arthur Johnston,Johnny Burke,Bing Crosby,1000000,73700000,Louis Prima,Norman Z. McLeod,,1,0,Y,N,N,N,N,N
+193604,1936,When Did You Leave Heaven,"Sing, Baby, Sing",Richard A. Whiting,Walter Bullock,Tony Martin,,348000,Jimmy Scott,Sidney Lanfield,,1,0,Y,N,N,N,N,N
+193605,1936,Did I Remember,Suzy,Walter Donaldson,Harold Adamson,Billie Holiday,1200000,34500000,Catherine Russell,George Fitzmaurice,,1,0,Y,N,N,N,N,N
+193701,1937,Sweet Leilani,Waikiki Wedding,Harry Owens,Harry Owens,Bing Crosby,386000,417000,Chris Isaak,Frank Tuttle,,2,1,Y,Y,N,N,N,N
+193702,1937,They Can't Take That Away From Me,Shall We Dance,George Gershwin,Ira Gershwin,Fred Astaire,,91800000,Ella Fitzgerald,Mark Sandrich,,1,0,Y,N,N,N,N,N
+193703,1937,That Old Feeling,Vogues of 1938,Sammy Fain,Lew Brown,Virginia Verrill,,3433000,"Rod Stewart, Frank Sinatra",Irving Cummings,Victor Young,2,0,Y,N,N,N,N,N
+193704,1937,Whispers In The Dark,Artists and Models,Frederick Hollander,Leo Robin,Connee Boswell,,18000,Bob Crosby,Raoul Walsh,,1,0,Y,N,N,N,N,N
+193801,1938,Thanks For The Memory,The Big Broadcast of 1938,Ralph Rainger,Leo Robin,Bob Hope,1370000,2200000,Rod Stewart,Mitchell Leisen,,1,1,Y,Y,N,N,N,N
+193802,1938,Now It Can Be Told,Alexander's Ragtime Band,Irving Berlin,Irving Berlin,"Alice Faye, Don Ameche",1200,105000,Tony Bennett,Henry King,Alfred Newman,6,1,Y,N,N,N,N,N
+193803,1938,Jeepers Creepers,Going Places,Harry Warren,Johnny Mercer,Louis Armstrong,5715000,,,Ray Enright,,1,0,Y,N,N,N,N,N
+193804,1938,Change Partners,Carefree,Irving Berlin,Irving Berlin,Fred Astaire,1013000,,,Mark Sandrich,Victor Baravalle,3,0,Y,N,N,N,N,N
+193805,1938,A Mist Is Over The Moon,The Lady Objects,Ben Oakland,Oscar Hammerstein II,Tony Martin,1800,,,Erle C. Kenton,Sidney Cutner,1,0,Y,N,N,N,N,N
+193806,1938,The Cowboy And The Lady,The Cowboy and the Lady,Lionel Newman,Arthur Quenzer,John Denver,880000,,Bobby Goldsboro,H. C. Potter,Alfred Newman,3,1,Y,N,N,N,N,N
+193807,1938,Dust,Under Western Stars,Johnny Marvin,Johnny Marvin,Roy Rogers,15100,,,Joseph Kane,,1,0,Y,N,N,N,N,N
+193901,1939,Over The Rainbow,The Wizard of Oz,Harold Arlen,E. Y. Harburg,Judy Garland,70800000,580000000,Israel Kamakawiwo'ole,Victor Fleming,Herbert Stothart,5,2,Y,Y,N,N,N,N
+193902,1939,I Poured My Heart Into A Song,Second Fiddle,Irving Berlin,Irving Berlin,"Helen Forrest, Artie Shaw",17000,2900,Steve Conway,Sidney Lanfield,,1,0,Y,N,N,N,N,N
+194001,1940,When You Wish Upon A Star,Pinocchio,Leigh Harline,Ned Washington,Cliff Edwards,81300000,24900000,Cynthia Erivo,Ben Sharpsteen,Leigh Harline,2,2,Y,Y,N,N,N,N
+194002,1940,Love Of My Life,Second Chorus,Artie Shaw,Johnny Mercer,Artie Shaw,127600,,,H. C. Potter,Artie Shaw,2,0,Y,N,N,N,N,N
+194003,1940,Down Argentina Way,Down Argentine Way,Harry Warren,Mack Gordon,"Betty Grable, Don Ameche",12700,,,Irving Cummings,,3,0,Y,N,N,N,N,N
+194004,1940,It's A Blue World,Music in My Heart,"Chet Forrest, Bob Wright","Chet Forrest, Bob Wright",Tony Martin,,3080000,The Four Freshmen,Joseph Santley,,1,0,Y,N,N,N,N,N
+194005,1940,Who Am I?,Hit Parade of 1941,Jule Styne,Walter Bullock,Frances Langford,1085,,,John H. Auer,Cy Feuer,2,0,Y,N,N,N,N,N
+194006,1940,Our Love Affair,Strike Up the Band,"Roger Edens, Arthur Freed","Roger Edens, Arthur Freed","Judy Garland, Mickey Rooney",82700,,,Busby Berkeley,"Roger Edens, Georgie Stoll",3,1,Y,N,N,N,N,N
+194007,1940,I'd Know You Anywhere,You'll Find Out,Jimmy McHugh,Johnny Mercer,Ginny Simms,,1083000,"Irene Kral, Frank Sinatra",David Butler,Roy Webb,1,0,Y,N,N,N,N,N
+194008,1940,Waltzing In The Clouds,Spring Parade,Robert Stolz,Gus Kahn,Deanna Durbin,7500,,,Henry Koster,Charles Previn,4,0,Y,N,N,N,N,N
+194101,1941,The Last Time I Saw Paris,Lady Be Good,Jerome Kern,Oscar Hammerstein II,Ann Sothern,37600,,Dean Martin,Norman Z. McLeod,,1,1,Y,Y,N,N,N,N
+194102,1941,Blues In The Night,Blues in the Night,Harold Arlen,Johnny Mercer,William Gillespie,,318000,Frank Sinatra,Anatole Litvak,,1,0,Y,N,N,N,N,N
+194103,1941,Chattanooga Choo Choo,Sun Valley Serenade,Harry Warren,Mack Gordon,Glenn Miller,19700000,2800000,The Andrews Sisters,H. Bruce Humberstone,Emil Newman,3,0,Y,N,N,N,N,N
+194104,1941,How About You?,Babes on Broadway,Burton Lane,Ralph Freed,Judy Garland,20000,,,Busby Berkeley,,1,0,Y,N,N,N,N,N
+194105,1941,Baby Mine,Dumbo,Frank Churchill,Ned Washington,Betty Noyes,290600,,,Ben Sharpsteen,Frank Churchill,2,1,Y,N,N,N,N,N
+194106,1941,Boogie Woogie Bugle Boy,Buck Privates,Hugh Prince,Don Raye,The Andrews Sisters,33296000,,,Arthur Lubin,Charles Previn,2,0,Y,N,N,N,N,N
+194107,1941,Dolores,Las Vegas Nights,Lou Alter,Frank Loesser,Tommy Dorsey,1509000,,Frank Sinatra,Ralph Murphy,,1,0,Y,N,N,N,N,N
+194108,1941,Be Honest With Me,Ridin' on a Rainbow,"Gene Autry, Fred Rose","Gene Autry, Fred Rose",Gene Autry,39150,,,Lew Landers,Mort Glickman,1,0,Y,N,N,N,N,N
+194201,1942,White Christmas,Holiday Inn,Irving Berlin,Irving Berlin,Bing Crosby,659600000,96300000,The Drifters,Mark Sandrich,Robert Emmett Dolan,3,1,Y,Y,N,N,N,N
+194202,1942,Dearly Beloved,You Were Never Lovelier,Jerome Kern,Johnny Mercer,Fred Astaire,,892000,Wes Montgomery,William A. Seiter,Leigh Harline,3,0,Y,N,N,N,N,N
+194203,1942,Love Is A Song,Bambi,Frank Churchill,Larry Morey,Donald Novis,2126000,,,David D. Hand,Frank Churchill,3,0,Y,N,N,N,N,N
+194204,1942,I've Heard That Song Before,Youth on Parade,Jule Styne,Sammy Cahn,Harry James,12431000,276500,Frank Sinatra,Albert S. Rogell,,1,0,Y,N,N,N,N,N
+194301,1943,You'll Never Know,"Hello, Frisco, Hello",Harry Warren,Mack Gordon,Alice Faye,440000,956000,Frank Sinatra,H. Bruce Humberstone,,2,1,Y,Y,N,N,N,N
+194302,1943,That Old Black Magic,Star Spangled Rhythm,Harold Arlen,Johnny Mercer,Johnnie Johnston,,2999000,Frank Sinatra,George Marshall,Robert Emmett Dolan,2,0,Y,N,N,N,N,N
+194303,1943,My Shining Hour,The Sky's the Limit,Harold Arlen,Johnny Mercer,Joan Leslie,,279700,Frank Sinatra,Edward H. Griffith,Leigh Harline,2,0,Y,N,N,N,N,N
+194304,1943,You'd Be So Nice To Come Home To,Something to Shout About,Cole Porter,Cole Porter,"Janet Blair, Don Ameche",,5834000,"Helen Merrill, Clifford Brown, Frank Sinatra",Gregory Ratoff,Morris Stoloff,2,0,Y,N,N,N,N,N
+194305,1943,Happiness Is A Thing Called Joe,Cabin in the Sky,Harold Arlen,E. Y. Harburg,Ethel Waters,,50000,Nancy Wilson,Vincente Minnelli,,1,0,Y,N,N,N,N,N
+194401,1944,Swinging On A Star,Going My Way,James Van Heusen,Johnny Burke,Bing Crosby,14200000,6300000,Frank Sinatra,Leo McCarey,,10,7,Y,Y,N,N,N,N
+194402,1944,Long Ago And Far Away,Cover Girl,Jerome Kern,Ira Gershwin,Rita Hayworth,218000,6000000,Rod Stewart,Charles Vidor,"Morris Stoloff, Carmen Dragon",5,1,Y,N,N,N,N,N
+194403,1944,I'll Walk Alone,Follow the Boys,Jule Styne,Sammy Cahn,Dinah Shore,1172000,,,A. Edward Sutherland,,1,0,Y,N,N,N,N,N
+194404,1944,The Trolley Song,Meet Me in St. Louis,"Ralph Blane, Hugh Martin","Ralph Blane, Hugh Martin",Judy Garland,3530000,,,Vincente Minnelli,Georgie Stoll,4,0,Y,N,N,N,N,N
+194405,1944,Now I Know,Up in Arms,Harold Arlen,Ted Koehler,Dinah Shore,2500,,,Elliott Nugent,"Ray Heindorf, Louis Forbes",2,0,Y,N,N,N,N,N
+194406,1944,I'm Making Believe,Sweet and Low-Down,James V. Monaco,Mack Gordon,Benny Goodman,,8500000,"Ella Fitzgerald, The Ink Spots",Archie Mayo,Cyril J. Mockridge,1,0,Y,N,N,N,N,N
+194407,1944,Ac-Cen-Tchu-Ate the Positive,Here Come the Waves,Harold Arlen,Johnny Mercer,"Bing Crosby, Sonny Tufts",23812000,,"Perry Como, The Andrews Sisters",Mark Sandrich,Robert Emmett Dolan,1,0,Y,N,N,N,N,N
+194408,1944,More And More,Can't Help Singing,Jerome Kern,E. Y. Harburg,Deanna Durbin,3400,,,"Lewis R. Foster, Frank Ryan",Jerome Kern,2,0,Y,N,N,N,N,N
+194501,1945,It Might As Well Be Spring,State Fair,Richard Rodgers,Oscar Hammerstein II,Dick Haymes,575000,5900000,Bill Evans Trio,Walter Lang,"Alfred Newman, Charles Henderson",2,1,Y,Y,N,N,N,N
+194502,1945,I Fall In Love Too Easily,Anchors Aweigh,Jule Styne,Sammy Cahn,Frank Sinatra,4300000,169600000,Chet Baker,George Sidney,Georgie Stoll,5,1,Y,N,N,N,N,N
+194503,1945,Aren't You Glad You're You?,The Bells of St. Mary's,James Van Heusen,Johnny Burke,Bing Crosby,143000,,,Leo McCarey,Robert Emmett Dolan,8,1,Y,N,N,N,N,N
+194504,1945,I Can't Begin To Tell You,The Dolly Sisters,James Monaco,Mack Gordon,Bing Crosby,769000,,,Irving Cummings,,1,0,Y,N,N,N,N,N
+194601,1946,"On The Atchison, Topeka And The Santa Fe",The Harvey Girls,Harry Warren,Johnny Mercer,Judy Garland,719000,,The Merry Macs,George Sidney,Lennie Hayton,2,1,Y,Y,N,N,N,N
+194602,1946,You Keep Coming Back Like A Song,Blue Skies,Irving Berlin,Irving Berlin,Bing Crosby,25400,2445000,Red Garland,Stuart Heisler,Robert Emmett Dolan,2,0,Y,N,N,N,N,N
+194603,1946,All Through The Day,Centennial Summer,Jerome Kern,Oscar Hammerstein II,Larry Stevens,1100,,,Otto Preminger,Alfred Newman,2,0,Y,N,N,N,N,N
+194604,1946,A Gal In Calico,"The Time, the Place and the Girl",Arthur Schwartz,Leo Robin,"Dennis Morgan, Jack Carson",,1300000,Johnny Mercer,David Butler,,1,0,Y,N,N,N,N,N
+194612,1946,Put The Blame On Mame,Gilda,"Allan Roberts, Doris Fisher","Allan Roberts, Doris Fisher","Anita Ellis, Rita Hayworth",718500,,,Charles Vidor,Hugo Friedhofer,0,0,N,N,N,N,N,N
+194701,1947,Zip-A-Dee-Doo-Dah,Song of the South,Allie Wrubel,Ray Gilbert,James Baskett,19300000,1600000,The Jackson 5,Wilfred Jackson,"Daniele Amfitheatrof, Paul J. Smith, Charles Wolcott",2,1,Y,Y,N,N,N,N
+194702,1947,I Wish I Didn't Love You So,The Perils of Pauline,Frank Loesser,Frank Loesser,Dinah Shore,564000,,k.d. lang,George Marshall,Robert Emmett Dolan,1,0,Y,N,N,N,N,N
+194801,1948,Buttons And Bows,The Paleface,"Jay Livingston, Ray Evans","Jay Livingston, Ray Evans",Bob Hope,327000,3115000,Dinah Shore,Norman Z. McLeod,,1,1,Y,Y,N,N,N,N
+194802,1948,It's Magic,Romance on the High Seas,Jule Styne,Sammy Cahn,Doris Day,2200000,,James Brown,Michael Curtiz,Ray Heindorf,2,0,Y,N,N,N,N,N
+194803,1948,For Every Man There's A Woman,Casbah,Harold Arlen,Leo Robin,Tony Martin,1000,52500,Shirley Bassey,John Berry,Harold Arlen,1,0,Y,N,N,N,N,N
+194901,1949,"Baby, It's Cold Outside",Neptune's Daughter,Frank Loesser,Frank Loesser,Dean Martin,274000000,286600000,Idina Menzel,Edward Buzzell,,1,1,Y,Y,N,N,N,N
+194902,1949,My Foolish Heart,My Foolish Heart,Victor Young,Ned Washington,Martha Mears,,89700000,Bill Evans Trio,Mark Robson,,2,0,Y,N,N,N,N,N
+194903,1949,It's A Great Feeling,It's a Great Feeling,Jule Styne,Sammy Cahn,"Doris Day, The Mellomen",263300,,,David Butler,,1,0,Y,N,N,N,N,N
+195001,1950,Mona Lisa,"Captain Carey, U.S.A.","Ray Evans, Jay Livingston","Ray Evans, Jay Livingston",Nat King Cole,41300000,,,Mitchell Leisen,,1,1,Y,Y,N,N,N,N
+195002,1950,Bibbidi-Bobbidi-Boo,Cinderella,"Mack David, Al Hoffman, Jerry Livingston","Mack David, Al Hoffman, Jerry Livingston",Verna Felton,50100000,48200000,Helena Bonham Carter,"Hamilton Luske, Wilfred Jackson","Oliver Wallace, Paul J. Smith",3,0,Y,N,N,N,N,N
+195003,1950,Be My Love,The Toast of New Orleans,Nicholas Brodszky,Sammy Cahn,"Mario Lanza, Kathryn Grayson",27300,,,Norman Taurog,,1,0,Y,N,N,N,N,N
+195101,1951,"In The Cool, Cool, Cool Of The Evening",Here Comes the Groom,Hoagy Carmichael,Johnny Mercer,Bing Crosby,764000,904000,Dean Martin,Frank Capra,,2,1,Y,Y,N,N,N,N
+195102,1951,A Kiss To Build A Dream On,The Strip,"Bert Kalmar, Harry Ruby, Oscar Hammerstein II","Bert Kalmar, Harry Ruby, Oscar Hammerstein II",Louis Armstrong,113900000,6800000,Tony Bennett,László Kardos,,1,0,Y,N,N,N,N,N
+195103,1951,Wonder Why,"Rich, Young and Pretty",Nicholas Brodszky,Sammy Cahn,Jane Powell,3300,,,Norman Taurog,David Rose,1,0,Y,N,N,N,N,N
+195201,1952,High Noon,High Noon,Dimitri Tiomkin,Ned Washington,Tex Ritter,665000,200000,Duane Eddy,Fred Zinnemann,Dimitri Tiomkin,7,4,Y,Y,N,N,N,N
+195202,1952,Because You're Mine,Because You're Mine,Nicholas Brodszky,Sammy Cahn,Nat King Cole,1600000,543000,Mario Lanza,Alexander Hall,,1,0,Y,N,N,N,N,N
+195203,1952,Thumbelina,Hans Christian Andersen,Frank Loesser,Frank Loesser,Danny Kaye,494350,,,Charles Vidor,Walter Scharf,6,0,Y,N,N,N,N,N
+195204,1952,Zing A Little Zong,Just for You,Harry Warren,Leo Robin,"Bing Crosby, Jane Wyman",33900,,,Elliott Nugent,,1,0,Y,N,N,N,N,N
+195301,1953,Secret Love,Calamity Jane,Sammy Fain,Paul Francis Webster,Doris Day,8600000,4300000,George Michael,David Butler,Ray Heindorf,3,1,Y,Y,N,N,N,N
+195302,1953,That's Amore,The Caddy,Harry Warren,Jack Brooks,Dean Martin,246700000,2500000,James Marsden,Norman Taurog,,1,0,Y,N,N,N,N,N
+195303,1953,My Flaming Heart,Small Town Girl,Nicholas Brodszky,Leo Robin,Nat King Cole,20750,,,László Kardos,Andre Previn,1,0,Y,N,N,N,N,N
+195401,1954,Three Coins In The Fountain,Three Coins in the Fountain,Jule Styne,Sammy Cahn,Frank Sinatra,16700000,1700000,Andy Williams,Jean Negulesco,,3,2,Y,Y,N,N,N,N
+195402,1954,The Man That Got Away,A Star Is Born,Harold Arlen,Ira Gershwin,Judy Garland,306000,440000,Frank Sinatra,George Cukor,Ray Heindorf,6,0,Y,N,N,N,N,N
+195403,1954,Hold My Hand,Susan Slept Here,"Jack Lawrence, Richard Myers","Jack Lawrence, Richard Myers",Don Cornell,3424000,,,Frank Tashlin,Leigh Harline,2,0,Y,N,N,N,N,N
+195404,1954,The High And The Mighty,The High and the Mighty,Dimitri Tiomkin,Ned Washington,"Muzzy Marcellino, Dimitri Tiomkin",43500,,,William A. Wellman,Dimitri Tiomkin,6,1,Y,N,N,N,N,N
+195405,1954,Count Your Blessings Instead Of Sheep,White Christmas,Irving Berlin,Irving Berlin,Bing Crosby,4929000,,,Michael Curtiz,,1,0,Y,N,N,N,N,N
+195501,1955,Love Is A Many-Splendored Thing,Love Is a Many-Splendored Thing,Sammy Fain,Paul Francis Webster,The Four Aces,10000000,1900000,Nat King Cole,Henry King,Alfred Newman,8,3,Y,Y,N,N,N,N
+195502,1955,Something's Gotta Give,Daddy Long Legs,Johnny Mercer,Johnny Mercer,Fred Astaire,213000,38400000,Sammy Davis Jr.,Jean Negulesco,Alfred Newman,3,0,Y,N,N,N,N,N
+195503,1955,(Love Is) The Tender Trap,The Tender Trap,James Van Heusen,Sammy Cahn,Frank Sinatra,36400000,3200000,Robert Palmer,Charles Walters,,1,0,Y,N,N,N,N,N
+195504,1955,Unchained Melody,Unchained,Alex North,Hy Zaret,Todd Duncan,,814400000,The Righteous Brothers,Hall Bartlett,,1,0,Y,N,N,N,N,N
+195505,1955,I'll Never Stop Loving You,Love Me or Leave Me,Nicholas Brodszky,Sammy Cahn,Doris Day,780000,4895000,Andy Williams,Charles Vidor,"Percy Faith, George Stoll",6,1,Y,N,N,N,N,N
+195601,1956,"Que Sera, Sera (Whatever Will Be, Will Be)",The Man Who Knew Too Much,"Ray Evans, Jay Livingston","Ray Evans, Jay Livingston",Doris Day,107100000,14200000,Pixies,Alfred Hitchcock,,1,1,Y,Y,N,N,N,N
+195602,1956,True Love,High Society,Cole Porter,Cole Porter,"Bing Crosby, Grace Kelly",5900000,5900000,"Elton John, Kiki Dee",Charles Walters,"Johnny Green, Saul Chaplin",2,0,Y,N,N,N,N,N
+195603,1956,Friendly Persuasion (Thee I Love),Friendly Persuasion,Dimitri Tiomkin,Paul Francis Webster,Pat Boone,1796000,,,William Wyler,Dimitri Tiomkin,6,0,Y,N,N,N,N,N
+195604,1956,Julie,Julie,Leith Stevens,Tom Adair,Doris Day,27500,,,Andrew L. Stone,Leith Stevens,2,0,Y,N,N,N,N,N
+195701,1957,All The Way,The Joker Is Wild,James Van Heusen,Sammy Cahn,Frank Sinatra,43200000,1800000,Harry Connick Jr.,Charles Vidor,,1,1,Y,Y,N,N,N,N
+195702,1957,An Affair To Remember,An Affair to Remember,Harry Warren,"Harold Adamson, Leo McCarey",Vic Damone,2100000,1600000,Nat King Cole,Leo McCarey,Hugo Friedhofer,4,0,Y,N,N,N,N,N
+195703,1957,Wild Is The Wind,Wild Is the Wind,Dimitri Tiomkin,Ned Washington,Johnny Mathis,1600000,31500000,David Bowie,George Cukor,,3,0,Y,N,N,N,N,N
+195704,1957,April Love,April Love,Sammy Fain,Paul Francis Webster,Pat Boone,13022000,,,Henry Levin,,1,0,Y,N,N,N,N,N
+195705,1957,Tammy,Tammy and the Bachelor,"Ray Evans, Jay Livingston","Ray Evans, Jay Livingston",Debbie Reynolds,9233000,,,Joseph Pevney,Frank Skinner,1,0,Y,N,N,N,N,N
+195712,1957,Jailhouse Rock,Jailhouse Rock,"Jerry Leiber, Mike Stoller","Jerry Leiber, Mike Stoller",Elvis Presley,690900000,,,Richard Thorpe,Jeff Alexander,0,0,N,N,N,N,N,N
+195801,1958,Gigi,Gigi,Frederick Loewe,Alan Jay Lerner,Louis Jourdan,,697000,Billy Eckstine,Vincente Minnelli,Andre Previn,9,9,Y,Y,N,N,N,N
+195802,1958,A Certain Smile,A Certain Smile,Sammy Fain,Paul Francis Webster,Johnny Mathis,11915000,,,Jean Negulesco,Alfred Newman,3,0,Y,N,N,N,N,N
+195803,1958,Almost In Your Arms (Love Song From 'Houseboat'),Houseboat,"Jay Livingston, Ray Evans","Jay Livingston, Ray Evans",Sam Cooke,331500,,,Melville Shavelson,,2,0,Y,N,N,N,N,N
+195804,1958,A Very Precious Love,Marjorie Morningstar,Sammy Fain,Paul Francis Webster,Gene Kelly,239100,4940000,Doris Day,Irving Rapper,,1,0,Y,N,N,N,N,N
+195805,1958,To Love And Be Loved,Some Came Running,James Van Heusen,Sammy Cahn,Frank Sinatra,180500,,,Vincente Minnelli,Elmer Bernstein,5,0,Y,N,N,N,N,N
+195901,1959,High Hopes,A Hole in the Head,James Van Heusen,Sammy Cahn,Frank Sinatra,7500000,284000,Doris Day,Frank Capra,,1,1,Y,Y,N,N,N,N
+195902,1959,The Hanging Tree,The Hanging Tree,Jerry Livingston,Mack David,Marty Robbins,9805000,,,Delmer Daves,Max Steiner,1,0,Y,N,N,N,N,N
+195903,1959,The Best Of Everything,The Best of Everything,Alfred Newman,Sammy Cahn,Johnny Mathis,174500,,,Jean Negulesco,Alfred Newman,2,0,Y,N,N,N,N,N
+195904,1959,The Five Pennies,The Five Pennies,Sylvia Fine,Sylvia Fine,Danny Kaye,1241000,,,Melville Shavelson,Leith Stevens,4,0,Y,N,N,N,N,N
+195905,1959,Strange Are The Ways Of Love,The Young Land,Dimitri Tiomkin,Ned Washington,"Randy Sparks, Gogi Grant",4300,,,Ted Tetzlaff,Dimitri Tiomkin,1,0,Y,N,N,N,N,N
+196001,1960,Never On Sunday,Never on Sunday,Manos Hadjidakis,Manos Hadjidakis,Melina Mercouri,54000,3700000,Don Costa,Jules Dassin,,5,1,Y,Y,N,N,N,N
+196002,1960,The Second Time Around,High Time,James Van Heusen,Sammy Cahn,Bing Crosby,189000,1800000,Frank Sinatra,Blake Edwards,,1,0,Y,N,Y,N,Y,N
+196003,1960,The Green Leaves Of Summer,The Alamo,Dimitri Tiomkin,Paul Francis Webster,The Brothers Four,8800000,122000,Frankie Laine,John Wayne,Dimitri Tiomkin,7,1,Y,N,N,N,N,N
+196004,1960,The Facts Of Life,The Facts of Life,Johnny Mercer,Johnny Mercer,"Steve Lawrence, Eydie Gormé",4500,,,Melvin Frank,,5,1,Y,N,N,N,N,N
+196005,1960,Faraway Part Of Town,Pepe,Andre Previn,Dory Langdon,"Andre Previn, Judy Garland",2600,,,George Sidney,Johnny Green,7,0,Y,N,N,N,N,N
+196101,1961,Moon River,Breakfast at Tiffany's,Henry Mancini,Johnny Mercer,"Audrey Hepburn, Henry Mancini",129200000,68400000,Carla Bruni,Blake Edwards,Henry Mancini,5,2,Y,Y,Y,Y,Y,Y
+196102,1961,Pocketful Of Miracles,Pocketful of Miracles,James Van Heusen,Sammy Cahn,Frank Sinatra,2000000,,,Frank Capra,,3,0,Y,N,N,N,N,N
+196103,1961,Bachelor In Paradise,Bachelor in Paradise,Henry Mancini,Mack David,Henry Mancini,118300,,,Jack Arnold,Henry Mancini,1,0,Y,N,N,N,N,N
+196104,1961,Town Without Pity,Town Without Pity,Dimitri Tiomkin,Ned Washington,Gene Pitney,7200000,,,Gottfried Reinhardt,Dimitri Tiomkin,1,0,Y,N,N,N,N,N
+196201,1962,Days Of Wine And Roses,Days of Wine and Roses,Henry Mancini,Johnny Mercer,Andy Williams,,30700000,"Frank Sinatra, Henry Mancini",Blake Edwards,,5,1,Y,Y,Y,Y,Y,Y
+196202,1962,Song From Two For The Seesaw (Second Chance),Two for the Seesaw,Andre Previn,Dory Langdon,"Jackie Cain, Andre Previn",2000,,,Robert Wise,Andre Previn,2,0,Y,N,N,N,N,N
+196203,1962,Tender Is The Night,Tender Is the Night,Sammy Fain,Paul Francis Webster,Andy Williams,565000,,,Henry King,Bernard Herrmann,1,0,Y,N,N,N,N,N
+196204,1962,Love Song From Mutiny On The Bounty (Follow Me),Mutiny on the Bounty,Bronislau Kaper,Paul Francis Webster,,,65500,Nelson Riddle,Lewis Milestone,Bronislau Kaper,7,0,Y,N,N,N,N,N
+196212,1962,Under The Mango Tree,Dr. No,Monty Norman,Monty Norman,Diana Coupland,1373000,,,Terence Young,Monty Norman,0,0,N,N,N,N,N,N
+196301,1963,Call Me Irresponsible,Papa's Delicate Condition,James Van Heusen,Sammy Cahn,Frank Sinatra,7600000,28700000,Michael Bublé,George Marshall,,1,1,Y,Y,Y,N,N,N
+196302,1963,Charade,Charade,Henry Mancini,Johnny Mercer,Henry Mancini,800000,1500000,Bobby Darin,Stanley Donen,,1,0,Y,N,N,N,N,N
+196303,1963,"It's A Mad, Mad, Mad, Mad World","It's a Mad, Mad, Mad, Mad World",Ernest Gold,Mack David,The Shirelles,35000,,,Stanley Kramer,Ernest Gold,6,1,Y,N,N,N,N,N
+196304,1963,So Little Time,55 Days at Peking,Dimitri Tiomkin,Paul Francis Webster,Andy Williams,189900,,,Nicholas Ray,Dimitri Tiomkin,2,0,Y,N,N,N,N,N
+196312,1963,It Had Better Be Tonight,The Pink Panther,Henry Mancini,"Johnny Mercer, Franco Migliacci","Henry Mancini, Fran Jeffries",1473000,10022000,Michael Bublé,Blake Edwards,Henry Mancini,1,0,N,N,N,N,N,N
+196313,1963,From Russia With Love,From Russia With Love,Lionel Bart,Lionel Bart,Matt Monro,23100000,,,Terence Young,John Barry,0,0,N,N,N,N,N,N
+196401,1964,Chim Chim Cher-ee,Mary Poppins,"Richard M. Sherman, Robert B. Sherman","Richard M. Sherman, Robert B. Sherman",Julie Andrews,66120000,,,Robert Stevenson,"Richard M. Sherman, Robert B. Sherman",13,5,Y,Y,N,N,N,N
+196402,1964,Dear Heart,Dear Heart,Henry Mancini,"Jay Livingston, Ray Evans",Andy Williams,1379000,,,Delbert Mann,,1,0,Y,N,Y,N,N,N
+196403,1964,"Hush...Hush, Sweet Charlotte","Hush...Hush, Sweet Charlotte",Frank DeVol,Mack David,Patti Page,1300000,,,Robert Aldrich,Frank DeVol,7,0,Y,N,N,N,N,N
+196404,1964,My Kind Of Town,Robin and the 7 Hoods,James Van Heusen,Sammy Cahn,Frank Sinatra,45066000,,,Gordon Douglas,Nelson Riddle,2,0,Y,N,N,N,N,N
+196405,1964,Where Love Has Gone,Where Love Has Gone,James Van Heusen,Sammy Cahn,Jack Jones,74000,152000,Bobby Darin,Edward Dmytryk,,1,0,Y,N,N,N,N,N
+196412,1964,A Hard Day's Night,A Hard Day's Night,"John Lennon, Paul McCartney","John Lennon, Paul McCartney",The Beatles,282176000,,,Richard Lester,"John Lennon, Paul McCartney",2,0,N,N,Y,N,N,N
+196413,1964,Goldfinger,Goldfinger,"John Barry, Leslie Bricusse","John Barry, Leslie Bricusse",Shirley Bassey,36884000,,,Guy Hamilton,John Barry,1,1,N,N,N,N,N,N
+196501,1965,The Shadow Of Your Smile,The Sandpiper,Johnny Mandel,Paul Francis Webster,Tony Bennett,5060000,1440000,Frank Sinatra,Vincente Minnelli,,1,1,Y,Y,Y,Y,Y,N
+196502,1965,The Sweetheart Tree,The Great Race,Henry Mancini,Johnny Mercer,Henry Mancini,812000,652000,Johnny Mathis,Blake Edwards,,5,1,Y,N,N,N,N,N
+196503,1965,What's New Pussycat?,What's New Pussycat?,Burt Bacharach,Hal David,Tom Jones,30000000,,,Clive Donner,,1,0,Y,N,N,N,N,N
+196504,1965,I Will Wait For You,The Umbrellas of Cherbourg,Michel Legrand,"Jacques Demy, Norman Gimbel","Lena Horne, Michel Legrand",71000,3320000,Connie Francis,Jacques Demy,Michel Legrand,5,0,Y,N,Y,N,N,N
+196505,1965,The Ballad Of Cat Ballou,Cat Ballou,Jerry Livingston,Mack David,"Stubby Kaye, Nat King Cole",325600,,,Elliot Silverstein,DeVol,5,1,Y,N,N,N,N,N
+196512,1965,Thunderball,Thunderball,John Barry,Don Black,Tom Jones,6096000,,,Terence Young,John Barry,1,1,N,N,N,N,N,N
+196513,1965,Help!,Help!,"John Lennon, Paul McCartney","John Lennon, Paul McCartney",The Beatles,410241000,,,Richard Lester,"John Lennon, Paul McCartney, Ken Thorne",0,0,N,N,N,N,Y,N
+196601,1966,Born Free,Born Free,John Barry,Don Black,Matt Monro,22400000,,,James Hill,John Barry,2,2,Y,Y,Y,N,N,N
+196602,1966,Alfie,Alfie,Burt Bacharach,Hal David,Cilla Black,3300000,6000000,Dionne Warwick,Lewis Gilbert,,5,0,Y,N,N,N,N,N
+196603,1966,The Wishing Doll,Hawaii,Elmer Bernstein,Mack David,Patti Page,8800,,,George Roy Hill,Elmer Bernstein,7,0,Y,N,N,N,N,N
+196604,1966,Georgy Girl,Georgy Girl,Tom Springfield,Jim Dale,The Seekers,40948000,,,Silvio Narizzano,Alexander Faris,4,0,Y,N,N,N,N,N
+196605,1966,A Time For Love,An American Dream,Johnny Mandel,Paul Francis Webster,Janet Leigh,,16202000,Jane Monheit,Robert Gist,Johnny Mandel,1,0,Y,N,N,N,N,N
+196612,1966,Strangers in the Night,A Man Could Get Killed,Bert Kaempfert,"Buddy Scott, Jimmy Radcliffe",Frank Sinatra,341159000,,,"Ronald Neame, Cliff Owen",Bert Kaempfert,0,0,N,N,N,N,Y,Y
+196701,1967,Talk To The Animals,Doctor Dolittle,Leslie Bricusse,Leslie Bricusse,Rex Harrison,,299000,Sammy Davis Jr.,Richard Fleischer,Leslie Bricusse,9,2,Y,Y,N,N,N,N
+196702,1967,The Look Of Love,Casino Royale,Burt Bacharach,Hal David,Dusty Springfield,51900000,120000000,Diana Krall,John Huston,,1,0,Y,N,N,N,N,N
+196703,1967,Thoroughly Modern Millie,Thoroughly Modern Millie,"James Van Heusen, Sammy Cahn","James Van Heusen, Sammy Cahn",Julie Andrews,528200,,,George Roy Hill,Elmer Bernstein,7,1,Y,N,N,N,N,N
+196704,1967,The Bare Necessities,The Jungle Book,Terry Gilkyson,Terry Gilkyson,"Phil Harris, Bruce Reitherman",129031000,,,Wolfgang Reitherman,George Bruns,1,0,Y,N,N,N,N,N
+196705,1967,Eyes Of Love,Banning,Quincy Jones,Bob Russell,Quincy Jones,497100,,,Ron Winston,Quincy Jones,1,0,Y,N,N,N,N,N
+196712,1967,Mrs. Robinson,The Graduate,Paul Simon,Paul Simon,Simon & Garfunkel,800947000,105000000,The Lemonheads,Mike Nichols,Paul Simon,7,1,N,N,Y,N,Y,Y
+196713,1967,You Only Live Twice,You Only Live Twice,"John Barry, Leslie Bricusse","John Barry, Leslie Bricusse",Nancy Sinatra,16320000,,,Lewis Gilbert,John Barry,0,0,N,N,N,N,N,N
+196801,1968,The Windmills Of Your Mind,The Thomas Crown Affair,Michel Legrand,"Alan Bergman, Marilyn Bergman",Noel Harrison,13240000,20400000,Dusty Springfield,Norman Jewison,Michel Legrand,2,1,Y,Y,N,N,N,N
+196802,1968,Chitty Chitty Bang Bang,Chitty Chitty Bang Bang,"Richard M. Sherman, Robert B. Sherman","Richard M. Sherman, Robert B. Sherman",Dick Van Dyke,3000000,,,Ken Hughes,,1,0,Y,N,N,N,N,N
+196803,1968,Funny Girl,Funny Girl,Jule Styne,Bob Merrill,Barbra Streisand,3227000,,,William Wyler,,8,1,Y,N,N,N,N,N
+196804,1968,Star!,Star!,Jimmy Van Heusen,Sammy Cahn,Julie Andrews,,355000,Frank Sinatra,Robert Wise,,7,0,Y,N,N,N,N,N
+196805,1968,For Love Of Ivy,For Love of Ivy,Quincy Jones,Bob Russell,"Quincy Jones, Shirley Horn",53800,,,Daniel Mann,Quincy Jones,1,0,Y,N,N,N,N,N
+196812,1968,We Have All The Time In The World,On Her Majesty's Secret Service,John Barry,Hal David,Louis Armstrong,38197000,,,Peter R. Hunt,John Barry,0,0,N,N,N,N,N,N
+196901,1969,Raindrops Keep Fallin' On My Head,Butch Cassidy and the Sundance Kid,Burt Bacharach,Hal David,B. J. Thomas,148750000,,,George Roy Hill,Burt Bacharach,7,4,Y,Y,Y,N,N,N
+196902,1969,True Grit,True Grit,Elmer Bernstein,Don Black,Glen Campbell,1816000,,,Henry Hathaway,,2,1,Y,N,N,N,N,N
+196903,1969,What Are You Doing The Rest Of Your Life?,The Happy Ending,Michel Legrand,"Alan Bergman, Marilyn Bergman",Michael Dees,25000,,,Richard Brooks,Michel Legrand,2,0,Y,N,N,N,N,N
+196904,1969,Come Saturday Morning,The Sterile Cuckoo,Fred Karlin,Dory Previn,The Sandpipers,1848000,,,Alan J. Pakula,Fred Karlin,2,0,Y,N,N,N,N,N
+196905,1969,Jean,The Prime of Miss Jean Brodie,Rod McKuen,Rod McKuen,Rod McKuen,1019000,,,Ronald Neame,Rod McKuen,2,1,Y,N,N,N,N,N
+197001,1970,For All We Know,Lovers and Other Strangers,Fred Karlin,"Robb Royer, James Griffin","Carpenters, Larry Meredith",50400000,,,Cy Howard,,3,1,Y,Y,N,N,N,N
+197002,1970,Whistling Away The Dark,Darling Lili,Henry Mancini,Johnny Mercer,"Julie Andrews, Henry Mancini",839000,,,Blake Edwards,Henry Mancini,3,0,Y,N,N,N,N,N
+197003,1970,Pieces Of Dreams,Pieces of Dreams,Michel Legrand,"Alan Bergman, Marilyn Bergman",Peggy Lee,57800,128000,Shirley Bassey,Daniel Haller,Michel Legrand,1,0,Y,N,N,N,N,N
+197004,1970,Till Love Touches Your Life,Madron,Riz Ortolani,Arthur Hamilton,Richard Williams,6950,258000,Shirley Bassey,Jerry Hopper,Riz Ortolani,1,0,Y,N,N,N,N,N
+197101,1971,Theme From Shaft,Shaft,Isaac Hayes,Isaac Hayes,Isaac Hayes,86400000,,,Gordon Parks,Isaac Hayes,2,1,Y,Y,N,N,Y,N
+197102,1971,The Age Of Not Believing,Bedknobs and Broomsticks,"Richard M. Sherman, Robert B. Sherman","Richard M. Sherman, Robert B. Sherman",Angela Lansbury,2150000,,,Robert Stevenson,"Richard M. Sherman, Robert B. Sherman",5,1,Y,N,N,N,N,N
+197103,1971,Bless The Beasts & Children,Bless the Beasts & Children,"Barry DeVorzon, Perry Botkin, Jr.","Barry DeVorzon, Perry Botkin, Jr.",The Carpenters,6815000,,,Stanley Kramer,"Barry DeVorzon, Perry Botkin, Jr.",1,0,Y,N,N,N,N,N
+197104,1971,All His Children,Sometimes a Great Notion,Henry Mancini,"Alan Bergman, Marilyn Bergman","Charley Pride, Henry Mancini",320300,,,Paul Newman,Henry Mancini,2,0,Y,N,N,N,N,N
+197112,1971,Diamonds Are Forever,Diamonds Are Forever,John Barry,Don Black,Shirley Bassey,40268000,,,Guy Hamilton,John Barry,1,0,N,N,N,N,N,N
+197113,1971,Pure Imagination,Willy Wonka & The Chocolate Factory,"Anthony Newley, Leslie Bricusse","Anthony Newley, Leslie Bricusse",Gene Wilder,27210000,,,Mel Stuart,Walter Scharf,1,0,N,N,N,N,N,N
+197201,1972,The Morning After,The Poseidon Adventure,"Al Kasha, Joel Hirschhorn","Al Kasha, Joel Hirschhorn",Maureen McGovern,16950000,,,Ronald Neame,John Williams,8,1,Y,Y,N,N,N,N
+197202,1972,Ben,Ben,Walter Scharf,Don Black,Michael Jackson,118300000,,,Phil Karlson,,1,0,Y,N,N,N,N,N
+197203,1972,"Marmalade, Molasses and Honey",The Life and Times of Judge Roy Bean,Maurice Jarre,"Marilyn Bergman, Alan Bergman",Andy Williams,10800,,,John Huston,Maurice Jarre,1,0,Y,N,N,N,N,N
+197301,1973,The Way We Were,The Way We Were,Marvin Hamlisch,"Alan Bergman, Marilyn Bergman",Barbra Streisand,93630000,,,Sydney Pollack,Marvin Hamlisch,6,2,Y,Y,Y,Y,N,N
+197302,1973,Live And Let Die,Live and Let Die,"Paul McCartney, Linda McCartney","Paul McCartney, Linda McCartney","Paul McCartney, Wings",222750000,346600000,Guns N'Roses,Guy Hamilton,George Martin,1,0,Y,N,N,N,N,N
+197303,1973,All That Love Went To Waste,A Touch of Class,George Barrie,Sammy Cahn,"Madeline Bell, Shirley Bassey",26500,,,Melvin Frank,John Cameron,5,1,Y,N,N,N,N,N
+197304,1973,Love,Robin Hood,George Bruns,Floyd Huddleston,Nancy Adams,18147000,,,Wolfgang Reitherman,George Bruns,1,0,Y,N,N,N,N,N
+197305,1973,Nice To Be Around,Cinderella Liberty,John Williams,Paul Williams,"John Williams, Paul Williams",14000,,,Mark Rydell,John Williams,3,0,Y,N,N,N,N,N
+197312,1973,Knockin' On Heaven's Door,Pat Garrett & Billy the Kid,Bob Dylan,Bob Dylan,Bob Dylan,919991000,1081700000,"Guns N' Roses, Eric Clapton",Sam Peckinpah,Bob Dylan,0,0,N,N,N,N,N,N
+197313,1973,Gently Johnny,The Wicker Man,Paul Giovanni,Paul Giovanni,Paul Giovanni,1105000,,,Robin Hardy,Paul Giovanni,0,0,N,N,N,N,N,N
+197314,1973,Corn Rigs,The Wicker Man,Paul Giovanni,Paul Giovanni,Paul Giovanni,927000,,,Robin Hardy,Paul Giovanni,0,0,N,N,N,N,N,N
+197315,1973,Willow's Song,The Wicker Man,Paul Giovanni,Paul Giovanni,Paul Giovanni,2002000,,,Robin Hardy,Paul Giovanni,0,0,N,N,N,N,N,N
+197401,1974,We May Never Love Like This Again,The Towering Inferno,"Al Kasha, Joel Hirschhorn","Al Kasha, Joel Hirschhorn","Maureen McGovern, The Brothers Four",1096000,,,John Guillermin,John Williams,8,3,Y,Y,N,N,N,N
+197402,1974,Blazing Saddles,Blazing Saddles,John Morris,Mel Brooks,Frankie Laine,1389000,,,Mel Brooks,,3,0,Y,N,N,N,N,N
+197403,1974,Benji's Theme (I Feel Love),Benji,Euel Box,Betty Box,Euel Box,30500,,,Joe Camp,Euel Box,1,0,Y,N,N,N,N,N
+197404,1974,Little Prince,The Little Prince,Frederick Loewe,Alan Jay Lerner,Richard Kiley,26500,,,Stanley Donen,Frederick Loewe,2,0,Y,N,N,N,N,N
+197412,1974,The Man With The Golden Gun,The Man With The Golden Gun,John Barry,John Barry,Lulu,7273000,,,Guy Hamilton,John Barry,0,0,N,N,N,N,N,N
+197413,1974,Emmanuelle,Emmanuelle,Pierre Bachelet,"Pierre Bachelet, Hervé Roy",Pierre Bachelet,10869000,,,Just Jaeckin,Pierre Bachelet,0,0,N,N,N,N,N,N
+197501,1975,I'm Easy,Nashville,Keith Carradine,Keith Carradine,Keith Carradine,5000000,,,Robert Altman,,5,1,Y,Y,N,N,N,N
+197502,1975,How Lucky Can You Get,Funny Lady,"Fred Ebb, John Kander","Fred Ebb, John Kander",Barbra Streisand,40600,,,Herbert Ross,Peter Matz,5,0,Y,N,N,N,N,N
+197503,1975,Now That We're In Love,Whiffs,George Barrie,Sammy Cahn,Steve Lawrence,53200,,,Ted Post,John Cameron,1,0,Y,N,N,N,N,N
+197504,1975,Theme From Mahogany (Do You Know Where You're Going To),Mahogany,Michael Masser,Gerry Goffin,Diana Ross,45046000,,,Berry Gordy,Michael Masser,1,0,Y,N,N,N,N,N
+197601,1976,Evergreen (Love Theme From A Star Is Born),A Star Is Born,Barbra Streisand,Paul Williams,Barbra Streisand,86500000,3000000,Luther Vandross,Frank Pierson,Roger Kellaway,4,1,Y,Y,Y,Y,Y,N
+197602,1976,Gonna Fly Now,Rocky,Bill Conti,"Carol Connors, Ayn Robbins",Bill Conti,194500000,,,John G. Avildsen,,10,3,Y,N,N,N,N,N
+197603,1976,Come To Me,The Pink Panther Strikes Again,Henry Mancini,Don Black,"Tom Jones, Henry Mancini",171100,,,Blake Edwards,Henry Mancini,1,0,Y,N,N,N,N,N
+197604,1976,Ave Satani,The Omen,Jerry Goldsmith,Jerry Goldsmith,Jerry Goldsmith,2781000,,,Richard Donner,Jerry Goldsmith,2,1,Y,N,N,N,N,N
+197701,1977,You Light Up My Life,You Light Up My Life,Joseph Brooks,Joseph Brooks,"Kasey Cisyk, Debby Boone",48480000,,,Joseph Brooks,,1,1,Y,Y,Y,N,Y,N
+197702,1977,Nobody Does It Better,The Spy Who Loved Me,Marvin Hamlisch,Carole Bayer Sager,Carly Simon,67700000,,,Lewis Gilbert,Marvin Hamlisch,3,0,Y,N,Y,N,N,N
+197703,1977,Candle On The Water,Pete's Dragon,"Al Kasha, Joel Hirschhorn","Al Kasha, Joel Hirschhorn",Helen Reddy,4239400,,,Don Chaffey,Irwin Kostal,2,0,Y,N,N,N,N,N
+197704,1977,Someone's Waiting For You,The Rescuers,Sammy Fain,"Carol Connors, Ayn Robbins",Shelby Flint,5658000,,,"Wolfgang Reitherman, John Lounsbery, Art Stevens",Artie Butler,1,0,Y,N,N,N,N,N
+197712,1977,"Theme From New York, New York","New York, New York","John Kander, Fred Ebb","John Kander, Fred Ebb",Liza Minnelli,9320000,257158000,Frank Sinatra,Martin Scorsese,,0,0,N,N,Y,N,Y,N
+197713,1977,Night Fever,Saturday Night Fever,"Barry Gibb, Maurice Gibb, Robin Gibb","Barry Gibb, Maurice Gibb, Robin Gibb",Bee Gees,688865000,,,John Badham,"Barry Gibb, Maurice Gibb, Robin Gibb",1,0,N,N,N,N,N,N
+197714,1977,Stayin' Alive,Saturday Night Fever,"Barry Gibb, Maurice Gibb, Robin Gibb","Barry Gibb, Maurice Gibb, Robin Gibb",Bee Gees,1502583000,,,John Badham,"Barry Gibb, Maurice Gibb, Robin Gibb",1,0,N,N,Y,N,Y,N
+197715,1977,How Deep Is Your Love,Saturday Night Fever,"Barry Gibb, Maurice Gibb, Robin Gibb","Barry Gibb, Maurice Gibb, Robin Gibb",Bee Gees,1125121000,,,John Badham,"Barry Gibb, Maurice Gibb, Robin Gibb",1,0,N,N,N,N,N,N
+197716,1977,More Than a Woman,Saturday Night Fever,"Barry Gibb, Maurice Gibb, Robin Gibb","Barry Gibb, Maurice Gibb, Robin Gibb",Bee Gees,884394000,,,John Badham,"Barry Gibb, Maurice Gibb, Robin Gibb",1,0,N,N,N,N,N,N
+197717,1977,The Greatest Love of All,The Greatest,Michael Masser,Linda Creed,George Benson,777000,289784000,Whitney Houston,"Tom Gries, Monte Hellman",Michael Masser,0,0,N,N,N,N,N,N
+197801,1978,Last Dance,Thank God It's Friday,Paul Jabara,Paul Jabara,Donna Summer,36750000,,,Robert Klane,,1,1,Y,Y,N,N,N,N
+197802,1978,Hopelessly Devoted To You,Grease,John Farrar,John Farrar,Olivia Newton-John,492322000,,,Randal Kleiser,,1,0,Y,N,N,N,N,N
+197803,1978,Ready To Take A Chance Again,Foul Play,Charles Fox,Norman Gimbel,Barry Manilow,15678000,,,Colin Higgins,Charles Fox,1,0,Y,N,N,N,N,N
+197804,1978,When You're Loved,The Magic of Lassie,"Richard M. Sherman, Robert B. Sherman","Richard M. Sherman, Robert B. Sherman",Debby Boone,178000,,,Don Chaffey,Irwin Kostal,1,0,Y,N,N,N,N,N
+197805,1978,Through The Eyes Of Love,Ice Castles,Marvin Hamlisch,Carole Bayer Sager,Melissa Manchester,22636000,,,Donald Wrye,Marvin Hamlisch,1,0,Y,N,N,N,N,N
+197806,1978,The Last Time I Felt Like This,"Same Time, Next Year",Marvin Hamlisch,"Alan Bergman, Marilyn Bergman","Johnny Mathis, Jane Olivor",13442000,,,Robert Mulligan,Marvin Hamlisch,4,0,Y,N,N,N,N,N
+197812,1978,Grease,Grease,Barry Gibb,Barry Gibb,Frankie Valli,306212000,,,Randal Kleiser,,1,0,N,N,N,N,N,N
+197901,1979,It Goes Like It Goes,Norma Rae,David Shire,Norman Gimbel,Maureen McGovern,316300,,Jennifer Warnes,Martin Ritt,,4,2,Y,Y,N,N,N,N
+197902,1979,It's Easy To Say,10,Henry Mancini,Robert Wells,"Henry Mancini, Dudley Moore, Julie Andrews",522000,,,Blake Edwards,Henry Mancini,2,0,Y,N,N,N,N,N
+197903,1979,I'll Never Say Goodbye,The Promise,David Shire,"Alan Bergman, Marilyn Bergman","Melissa Manchester, David Shire",,19600,Maureen McGovern,Gilbert Cates,David Shire,1,0,Y,N,N,N,N,N
+197904,1979,Rainbow Connection,The Muppet Movie,"Paul Williams, Kenny Ascher","Paul Williams, Kenny Ascher",Kermit,40071000,,,James Frawley,"Paul Williams, Kenny Ascher",2,0,Y,N,N,N,N,N
+197912,1979,Moonraker,Moonraker,John Barry,Hal David,Shirley Bassey,13093000,,,Lewis Gilbert,John Barry,1,0,N,N,N,N,N,N
+197913,1979,Always Look On The Bright Side Of Life,Life of Brian,Eric Idle,Eric Idle,"Monty Python, Eric Idle",59570000,,,Terry Jones,Geoffrey Burgon,0,0,N,N,N,N,N,N
+198001,1980,Fame,Fame,Michael Gore,Dean Pitchford,Irene Cara,168000000,,,Alan Parker,Michael Gore,6,2,Y,Y,Y,N,N,N
+198002,1980,Out Here On My Own,Fame,Michael Gore,Lesley Gore,Irene Cara,15952000,,,Alan Parker,Michael Gore,6,2,Y,N,N,N,N,N
+198003,1980,On The Road Again,Honeysuckle Rose,Willie Nelson,Willie Nelson,Willie Nelson,215000000,,,Jerry Schatzberg,,1,0,Y,N,N,N,N,N
+198004,1980,9 To 5,9 To 5,Dolly Parton,Dolly Parton,Dolly Parton,861919000,,,Colin Higgins,Charles Fox,1,0,Y,N,Y,N,N,N
+198005,1980,People Alone,The Competition,Lalo Schifrin,Wilbur Jennings,"Randy Crawford, Lalo Schifrin",293000,,,Joel Oliansky,Lalo Schifrin,2,0,Y,N,N,N,N,N
+198012,1980,Flash,Flash Gordon,Brian May,Brian May,Queen,63540000,,,Mike Hodges,Queen,0,0,N,N,N,N,N,N
+198013,1980,Call Me,American Gigolo,Giorgio Moroder,"Giorgio Moroder, Debbie Harry",Blondie,771783000,,,Paul Schrader,Giorgio Moroder,0,0,N,N,N,N,N,N
+198014,1980,Late In The Evening,One-Trick Pony,Paul Simon,Paul Simon,Paul Simon,62639000,,,Robert M. Young,Paul Simon,0,0,N,N,N,N,Y,N
+198015,1980,America,The Jazz Singer,Neil Diamond,Neil Diamond,Neil Diamond,44164000,,,Richard Fleischer,Leonard Rosenman,0,0,N,N,N,N,Y,N
+198016,1980,Love on the Rocks,The Jazz Singer,"Neil Diamond, Gilbert Bécaud","Neil Diamond, Gilbert Bécaud",Neil Diamond,37026000,,,Richard Fleischer,Leonard Rosenman,0,0,N,N,N,N,Y,N
+198101,1981,Arthur's Theme (Best That You Can Do),Arthur,"Burt Bacharach, Carole Bayer Sager, Christopher Cross, Peter Allen","Burt Bacharach, Carole Bayer Sager, Christopher Cross, Peter Allen",Christopher Cross,365600000,,,Steve Gordon,,4,2,Y,Y,Y,N,Y,N
+198102,1981,Endless Love,Endless Love,Lionel Richie,Lionel Richie,"Lionel Richie, Diana Ross",469000000,146500000,"Luther Vandross, Mariah Carey",Franco Zeffirelli,,1,0,Y,N,Y,N,Y,N
+198103,1981,For Your Eyes Only,For Your Eyes Only,Bill Conti,Mick Leeson,Sheena Easton,66100000,,,John Glen,,1,0,Y,N,N,N,N,N
+198104,1981,One More Hour,Ragtime,Randy Newman,Randy Newman,Randy Newman,72100,,,Milos Forman,Randy Newman,8,0,Y,N,N,N,N,N
+198105,1981,The First Time It Happens,The Great Muppet Caper,Joe Raposo,Joe Raposo,"Jim Henson, Frank Oz",,847000,Seth MacFarlane,Jim Henson,Joe Raposo,1,0,Y,N,N,N,N,N
+198201,1982,Up Where We Belong,An Officer and a Gentleman,"Jack Nitzsche, Buffy Sainte-Marie",Will Jennings,"Joe Cocker, Jennifer Warnes",427545000,,,Taylor Hackford,Jack Nitzsche,6,2,Y,Y,N,N,N,N
+198202,1982,How Do You Keep The Music Playing?,Best Friends,Michel Legrand,"Alan Bergman, Marilyn Bergman","James Ingram, Patti Austin",25300000,1300000,Frank Sinatra,Norman Jewison,,1,0,Y,N,N,N,N,N
+198203,1982,Eye Of The Tiger,Rocky III,"Jim Peterik, Frankie Sullivan III","Jim Peterik, Frankie Sullivan III",Survivor,1833600000,,,Sylvester Stallone,,1,0,Y,N,Y,N,N,N
+198204,1982,If We Were In Love,"Yes, Giorgio",John Williams,"Alan Bergman, Marilyn Bergman","Luciano Pavarotti, John Williams",,,,Franklin J. Schaffner,Michael J. Lewis,1,0,Y,N,N,N,N,N
+198205,1982,It Might Be You,Tootsie,Dave Grusin,"Alan Bergman, Marilyn Bergman",Stephen Bishop,45537000,,,Sydney Pollack,Dave Grusin,10,1,Y,N,N,N,N,N
+198212,1982,Cat People (Putting Out Fire),Cat People,"David Bowie, Giorgio Moroder","David Bowie, Giorgio Moroder",David Bowie,25172500,,,Paul Schrader,Giorgio Moroder,0,0,N,N,N,N,N,N
+198301,1983,Flashdance...What A Feeling,Flashdance,Giorgio Moroder,"Keith Forsey, Irene Cara",Irene Cara,561500000,,,Adrian Lyne,,4,1,Y,Y,N,N,Y,N
+198302,1983,Maniac,Flashdance,"Michael Sembello, Dennis Matkosky","Michael Sembello, Dennis Matkosky",Michael Sembello,829800000,,,Adrian Lyne,,4,1,Y,N,Y,N,Y,N
+198303,1983,"Papa, Can You Hear Me?",Yentl,Michel Legrand,"Alan Bergman, Marilyn Bergman",Barbra Streisand,9600000,,,Barbra Streisand,Michel Legrand,5,1,Y,N,N,N,N,N
+198304,1983,Over You,Tender Mercies,"Austin Roberts, Bobby Hart","Austin Roberts, Bobby Hart",Betty Buckley,,,,Bruce Beresford,George Dreyfus,5,2,Y,N,N,N,N,N
+198312,1983,All Time High,Octopussy,John Barry,Tim Rice,Rita Coolidge,17024000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198313,1983,Never Say Never Again,Never Say Never Again,Michel Legrand,"Alan Bergman, Marilyn Bergman",Lani Hall,1440000,,,Irvin Kershner,MIchel Legrand,0,0,N,N,N,N,N,N
+198314,1983,Holiday Road,National Lampoon's Vacation,Lindsey Buckingham,Lindsey Buckingham,Lindsey Buckingham,45810000,,,Harold Ramis,Ralph Burns,0,0,N,N,N,N,N,N
+198315,1983,Galaxy Song,Monty Python's The Meaning of Life,"Eric Idle, John Du Prez",Eric Idle,"Monty Python, Eric Idle",10657000,,,Terry Jones,John Du Prez,0,0,N,N,N,N,N,N
+198401,1984,I Just Called To Say I Love You,The Woman In Red,Stevie Wonder,Stevie Wonder,Stevie Wonder,646270000,,,Gene Wilder,Stevie Wonder,1,1,Y,Y,Y,N,N,N
+198402,1984,Against All Odds (Take A Look At Me Now),Against All Odds,Phil Collins,Phil Collins,Phil Collins,680000000,,,Taylor Hackford,,1,0,Y,N,N,N,N,N
+198403,1984,Footloose,Footloose,"Kenny Loggins, Dean Pitchford","Kenny Loggins, Dean Pitchford",Kenny Loggins,1077900000,,,Herbert Ross,,2,0,Y,N,N,N,N,N
+198404,1984,Let's Hear It For The Boy,Footloose,"Tom Snow, Dean Pitchford","Tom Snow, Dean Pitchford",Deniece Williams,209687000,,,Herbert Ross,,2,0,Y,N,N,N,N,N
+198405,1984,Ghostbusters,Ghostbusters,"Ray Parker, Jr.","Ray Parker, Jr.",Ray Parker Jr.,456800000,,,Ivan Reitman,,2,0,Y,N,N,N,N,N
+198412,1984,Never Ending Story,The Neverending Story,"Giorgio Moroder, Keith Forsey","Giorgio Moroder, Keith Forsey",Limahl,202123000,,,Wolfgang Petersen,Giorgio Moroder,0,0,N,N,N,N,N,N
+198413,1984,Purple Rain,Purple Rain,Prince,Prince,Prince,828191000,,,Albert Magnoli,Prince,1,1,N,N,N,N,Y,Y
+198414,1984,When Doves Cry,Purple Rain,Prince,Prince,Prince,369958000,,,Albert Magnoli,Prince,1,1,N,N,N,N,Y,Y
+198415,1984,Big Bottom,This Is Spinal Tap,"Christopher Guest, Harry Shearer, Michael John McKean, Rob Reiner","Christopher Guest, Harry Shearer, Michael John McKean, Rob Reiner",Spinal Tap,2801200,,,Rob Reiner,"Christopher Guest, Harry Shearer, Michael John McKean, Rob Reiner",0,0,N,N,N,N,N,N
+198416,1984,It's You,The Woman In Red,Stevie Wonder,Stevie Wonder,"Stevie Wonder, Dionne Warwick",4509000,,,Gene Wilder,Stevie Wonder,,,,,,,,
+198501,1985,"Say You, Say Me",White Nights,Lionel Richie,Lionel Richie,Lionel Richie,401100000,,,Taylor Hackford,,2,1,Y,Y,N,N,N,N
+198502,1985,Separate Lives,White Nights,Stephen Bishop,Stephen Bishop,"Phil Collins, Marilyn Martin",67200000,,,Taylor Hackford,,2,1,Y,N,N,N,N,N
+198503,1985,The Power Of Love,Back to the Future,"Chris Hayes, Johnny Colla",Huey Lewis,Huey Lewis & The News,614430000,,,Robert Zemeckis,,4,1,Y,N,N,N,Y,N
+198504,1985,"Surprise, Surprise",A Chorus Line,Marvin Hamlisch,Edward Kleban,Gregg Burge,178200,,,Richard Attenborough,,3,0,Y,N,N,N,N,N
+198505,1985,Miss Celie's Blues (Sister),The Color Purple,"Quincy Jones, Rod Temperton","Quincy Jones, Rod Temperton, Lionel Richie","Quincy Jones, Tata Vega",3684000,,,Steven Spielberg,Quincy Jones,11,0,Y,N,N,N,N,N
+198512,1985,Burning Heart,Rocky IV,"Jim Peterik, Frankie Sullivan","Jim Peterik, Frankie Sullivan",Survivor,416463000,,,Sylvester Stallone,Vince DiCola,0,0,N,N,N,N,N,N
+198513,1985,Into The Groove,Desperately Seeking Susan,"Madonna, Stephen Bray","Madonna, Stephen Bray",Madonna,218144500,,,Susan Seidelman,Thomas Newman,0,0,N,N,N,N,N,N
+198514,1985,We Don't Need Another Hero,Mad Max Beyond Thunderdome,"Terry Britten, Graham Lyle","Terry Britten, Graham Lyle",Tina Turner,201970000,,,"George Miller, George Ogilvie",Maurice Jarre,0,0,N,N,N,N,N,N
+198515,1985,A View To A Kill,A View To A Kill,"Simon Le Bon, Andy Taylor, Roger Taylor, Nick Rhodes, John Barry","Simon Le Bon, Andy Taylor, Roger Taylor, Nick Rhodes, John Barry",Duran Duran,128669000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198601,1986,Take My Breath Away,Top Gun,Giorgio Moroder,Tom Whitlock,Berlin,1000000000,,,Tony Scott,Harold Faltermeyer,4,1,Y,Y,N,N,N,N
+198602,1986,Glory Of Love,The Karate Kid Part II,"Peter Cetera, David Foster","Peter Cetera, Diane Nini",Peter Cetera,458250000,,,John G. Avildsen,,1,0,Y,N,N,N,N,N
+198603,1986,Somewhere Out There,An American Tail,"James Horner, Barry Mann",Cynthia Weil,"Linda Ronstadt, James Ingram",25589000,,,Don Bluth,,1,0,Y,N,Y,Y,N,N
+198604,1986,Life In A Looking Glass,That's Life,Henry Mancini,Leslie Bricusse,"Tony Bennett, Henry Mancini",25000,,,Blake Edwards,,1,0,Y,N,N,N,N,N
+198605,1986,Mean Green Mother from Outer Space,Little Shop of Horrors,Alan Menken,Howard Ashman,Levi Stubbs,5905000,,,Frank Oz,Miles Goodman,2,0,Y,N,N,N,N,N
+198612,1986,Danger Zone,Top Gun,"Giorgio Moroder, Thomas Whitlock","Giorgio Moroder, Thomas Whitlock",Kenny Loggins,705031000,,,Tony Scott,Harold Faltermeyer,4,1,N,N,N,N,N,N
+198613,1986,Who Wants To Live Forever,Highlander,Brian May,Brian May,Queen,106499000,,,Russell Mulcahy,Michael Kamen,0,0,N,N,N,N,N,N
+198614,1986,A Kind of Magic,Highlander,Brian May,Brian May,Queen,375440000,,,Russell Mulcahy,Michael Kamen,0,0,N,N,N,N,N,N
+198615,1986,If You Leave,Pretty In Pink,"George Andy McCluskey, Martin Cooper, Paul Davids Humphreys","George Andy McCluskey, Martin Cooper, Paul Davids Humphreys",Orchestral Manoeuvres In The Dark,125514000,,,Howard Deutch,Michael Gore,0,0,N,N,N,N,N,N
+198616,1986,Magic Dance,Labyrinth,David Bowie,David Bowie,David Bowie,47110000,,,Jim Henson,David Bowie,0,0,N,N,N,N,N,N
+198617,1986,Live to Tell,At Close Range,"Madonna, Patrick Leonard","Madonna, Patrick Leonard",Madonna,97946000,,,James Foley,Patrick Leonard,0,0,N,N,N,N,N,N
+198701,1987,(I've Had) The Time Of My Life,Dirty Dancing,"Franke Previte, John DeNicola",Franke Previte,"Bill Medley, Jennifer Warnes",609200000,,,Emile Ardolino,John Morris,1,1,Y,Y,N,N,N,N
+198702,1987,Nothing's Gonna Stop Us Now,Mannequin,"Albert Hammond, Diane Warren","Albert Hammond, Diane Warren",Starship,1051000000,,,Michael Gottlieb,,1,0,Y,N,N,N,N,N
+198703,1987,Storybook Love,The Princess Bride,Willy DeVille,Willy DeVille,"Willy DeVille, Mark Knopfler",9975000,,,Rob Reiner,Mark Knopfler,1,0,Y,N,N,N,N,N
+198704,1987,Shakedown,Beverly Hills Cop II,"Harold Faltermeyer, Keith Forsey","Harold Faltermeyer, Keith Forsey, Bob Seger",Bob Seger,20012000,,,Tony Scott,,1,0,Y,N,N,N,N,N
+198705,1987,Cry Freedom,Cry Freedom,"George Fenton, Jonas Gwangwa","George Fenton, Jonas Gwangwa",George Fenton,47500,,,Richard Attenborough,"George Fenton, Jonas Gwangwa",3,0,Y,N,N,N,N,N
+198712,1987,Hungry Eyes,Dirty Dancing,"Franke Previte, John DeNicola","Franke Previte, John DeNicola",Eric Carmen,796600000,,,Emile Ardolino,John Morris,1,1,N,N,N,N,N,N
+198713,1987,She's Like The Wind,Dirty Dancing,Patrick Swayze,Patrick Swayze,"Patrick Swayze, Wendy Fraser",297633000,,,Emile Ardolino,John Morris,1,1,N,N,N,N,N,N
+198714,1987,Who's That Girl,Who's That Girl,"Madonna, Patrick Leonard","Madonna, Patrick Leonard",Madonna,53278000,,,James Foley,Stephen Bray,0,0,N,N,Y,N,N,N
+198715,1987,The Living Daylights,The Living Daylights,"Paul Waaktaar-Savoy, John Barry","Paul Waaktaar-Savoy, John Barry",A-ha,35850000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198801,1988,Let The River Run,Working Girl,Carly Simon,Carly Simon,Carly Simon,853000,,,Mike Nichols,,6,1,Y,Y,N,N,N,N
+198802,1988,Calling You,Bagdad Cafe,Bob Telson,Bob Telson,Jevetta Steele,11650000,,,Percy Adlon,,1,0,Y,N,N,N,N,N
+198803,1988,Two Hearts,Buster,Lamont Dozier,Phil Collins,Phil Collins,122150000,,,David Green,,1,0,Y,N,N,N,N,N
+198804,1988,Kokomo,Cocktail,"Mike Love, Terry Melcher, Scott McKenzie, John Phillips",,The Beach Boys,411863000,,,Roger Donaldson,J. Peter Robinson,0,0,N,N,Y,N,N,N
+198901,1989,Under The Sea,The Little Mermaid,Alan Menken,Howard Ashman,Samuel E. Wright,381570000,,,"John Musker, Ron Clements",Alan Menken,3,2,Y,Y,N,N,N,N
+198902,1989,Kiss The Girl,The Little Mermaid,Alan Menken,Howard Ashman,Samuel E. Wright,201510000,,,"John Musker, Ron Clements",Alan Menken,3,2,Y,N,N,N,N,N
+198903,1989,After All,Chances Are,Tom Snow,Dean Pitchford,"Cher, Peter Cetera",146477000,,,Emile Ardolino,Maurice Jarre,1,0,Y,N,N,N,N,N
+198904,1989,I Love To See You Smile,Parenthood,Randy Newman,Randy Newman,Randy Newman,469400,,,Ron Howard,Randy Newman,2,0,Y,N,N,N,N,N
+198905,1989,The Girl Who Used To Be Me,Shirley Valentine,Marvin Hamlisch,"Alan Bergman, Marilyn Bergman",Patti Austin,143000,,,Lewis Gilbert,Willy Russell,2,0,Y,N,N,N,N,N
+198912,1989,Licence To Kill,Licence To Kill,Jeffrey Cohen,Jeffrey Cohen,Gladys Knight,19349000,,,John Glen,Michael Kamen,0,0,N,N,N,N,N,N
+199001,1990,Sooner Or Later (I Always Get My Man),Dick Tracy,Stephen Sondheim,Stephen Sondheim,Madonna,2190000,,,Warren Beatty,,7,3,Y,Y,N,N,N,N
+199002,1990,Somewhere In My Memory,Home Alone,John Williams,Leslie Bricusse,John Williams,43350000,,,Chris Columbus,John Williams,2,0,Y,N,N,N,N,N
+199003,1990,Promise Me You'll Remember,"The Godfather, Part III",Carmine Coppola,John Bettis,Harry Connick Jr.,162900,,,Francis Ford Coppola,,7,0,Y,N,N,N,N,N
+199004,1990,Blaze Of Glory,Young Guns II,Jon Bon Jovi,Jon Bon Jovi,Jon Bon Jovi,212630000,,,Geoff Murphy,,1,0,Y,N,N,N,N,N
+199005,1990,I'm Checkin' Out,Postcards from the Edge,Shel Silverstein,Shel Silverstein,"Meryl Streep, Blue Rodeo",,,,Mike Nichols,Carly Simon,2,0,Y,N,N,N,N,N
+199101,1991,Beauty And The Beast,Beauty and the Beast,Alan Menken,Howard Ashman,Angela Lansbury,183990000,315400000,"Ariana Grande, John Legend, Céline Dion, Peabo Bryson","Kirk Wise, Gary Trousdale",Alan Menken,6,2,Y,Y,Y,N,Y,N
+199102,1991,Be Our Guest,Beauty and the Beast,Alan Menken,Howard Ashman,"Angela Lansbury, Jerry Orbach",185352000,,,"Kirk Wise, Gary Trousdale",Alan Menken,6,2,Y,N,N,N,N,N
+199103,1991,When You're Alone,Hook,John Williams,Leslie Bricusse,John Williams,996000,,,Steven Spielberg,,5,0,Y,N,N,N,N,N
+199104,1991,(Everything I Do) I Do It For You,Robin Hood: Prince of Thieves,Michael Kamen,"Bryan Adams, Robert John Lange",Bryan Adams,867600000,,,Kevin Reynolds,,1,0,Y,N,Y,N,Y,N
+199112,1991,Tears In Heaven,Rush,Eric Clapton,Eric Clapton,Eric Clapton,355587000,,,Lini Fini Zanuck,Eric Clapton,0,0,N,N,Y,Y,Y,Y
+199213,1992,It's Probably Me,Lethal Weapon 3,"Sting, Eric Clapton, Michael Kamen","Sting, Eric Clapton, Michael Kamen","Sting, Eric Clapton",84467000,,,Richard Donner,"Michael Kamen, Eric Clapton",0,0,N,N,Y,N,N,N
+199201,1992,A Whole New World,Aladdin,Alan Menken,Tim Rice,"Brad Kane, Lea Salonga",372780000,,"Regina Belle, Peabo Bryson","John Musker, Ron Clements",Alan Menken,5,2,Y,Y,Y,Y,Y,N
+199202,1992,I Have Nothing,The Bodyguard,David Foster,Linda Thompson,Whitney Houston,702000000,,,Mick Jackson,,2,0,Y,N,N,N,N,N
+199203,1992,Run To You,The Bodyguard,Jud Friedman,Allan Rich,Whitney Houston,129200000,,,Mick Jackson,,2,0,Y,N,N,N,N,N
+199204,1992,Beautiful Maria Of My Soul,The Mambo Kings,Robert Kraft,Arne Glimcher,"Antonio Banderas, Compay Segundo",3836000,,,Arne Glimcher,"Carlos Franzetti, Robert Kraft",1,0,Y,N,N,N,N,N
+199205,1992,Friend Like Me,Aladdin,Alan Menken,Howard Ashman,Robin Williams,29536000,224390000,Will Smith,"John Musker, Ron Clements",Alan Menken,5,2,Y,N,N,N,N,N
+199301,1993,Streets Of Philadelphia,Philadelphia,Bruce Springsteen,Bruce Springsteen,Bruce Springsteen,491600000,,,Jonathan Demme,,5,2,Y,Y,Y,Y,Y,N
+199302,1993,Philadelphia,Philadelphia,Neil Young,Neil Young,Neil Young,597400,613000,Peter Gabriel,Jonathan Demme,,5,2,Y,N,N,N,N,N
+199303,1993,A Wink And A Smile,Sleepless in Seattle,Marc Shaiman,Ramsey McLean,Harry Connick Jr.,36970000,,,Nora Ephron,,2,0,Y,N,N,N,N,N
+199304,1993,The Day I Fall In Love,Beethoven's 2nd,"Carole Bayer Sager, James Ingram, Clif Magness","Carole Bayer Sager, James Ingram, Clif Magness","Dolly Parton, James Ingram",17919000,,,Rod Daniel,Randy Edelman,1,0,Y,N,N,N,N,N
+199305,1993,Again,Poetic Justice,"Janet Jackson, James Harris III, Terry Lewis","Janet Jackson, James Harris III, Terry Lewis",Janet Jackson,61607000,,,John Singleton,Stanley Clarke,1,0,Y,N,N,N,N,N
+199312,1993,All For Love,The Three Musketeers,"Bryan Adams, Michael Kamen",Bryan Adams,"Bryan Adams, Rod Stewart, Sting",271425000,,,Stephen Herek,Michael Kamen,0,0,N,N,N,N,N,N
+199401,1994,Can You Feel The Love Tonight,The Lion King,Elton John,Tim Rice,Elton John,427850000,,,"Roger Allers, Rob Minkoff",Hans Zimmer,4,2,Y,Y,Y,N,N,N
+199402,1994,Circle Of Life,The Lion King,Elton John,Tim Rice,Elton John,126480000,278700000,"Carmen Twillie, Lebo M.","Roger Allers, Rob Minkoff",Hans Zimmer,4,2,Y,N,Y,N,N,N
+199403,1994,Hakuna Matata,The Lion King,Elton John,Tim Rice,"Nathan Lane, Ernie Sabella, Jason Weaver, Joseph Williams",389900000,,,"Roger Allers, Rob Minkoff",Hans Zimmer,4,2,Y,N,N,N,N,N
+199404,1994,Make Up Your Mind,The Paper,Randy Newman,Randy Newman,Randy Newman,11500,,,Ron Howard,Randy Newman,1,0,Y,N,N,N,N,N
+199405,1994,Look What Love Has Done,Junior,"Carole Bayer Sager, James Newton Howard, James Ingram, Patty Smyth","Carole Bayer Sager, James Newton Howard, James Ingram, Patty Smyth",Patty Smyth,,,,Ivan Reitman,James Newton Howard,1,0,Y,N,N,N,N,N
+199501,1995,Colors Of The Wind,Pocahontas,Alan Menken,Stephen Schwartz,Judy Kuhn,266260000,,,"Eric Goldberg, Mike Gabriel",Alan Menken,2,2,Y,Y,N,N,N,N
+199502,1995,Dead Man Walkin',Dead Man Walking,Bruce Springsteen,Bruce Springsteen,Bruce Springsteen,1400000,,,Tim Robbins,,4,1,Y,N,N,N,N,N
+199503,1995,Have You Ever Really Loved A Woman,Don Juan DeMarco,"Michael Kamen, Bryan Adams, Robert John Lange","Michael Kamen, Bryan Adams, Robert John Lange",Bryan Adams,303800000,,,Jeremy Leven,,1,0,Y,N,N,N,N,N
+199504,1995,You've Got A Friend In Me,Toy Story,Randy Newman,Randy Newman,"Randy Newman, Lyle Lovett",415472000,,,John Lasseter,Randy Newman,3,0,Y,N,N,N,N,N
+199505,1995,Moonlight,Sabrina,John Williams,"Alan Bergman, Marilyn Bergman",Michael Dees,,,,Sydney Pollack,John Williams,2,0,Y,N,N,N,N,N
+199512,1995,Goldeneye,Goldeneye,"Bono, The Edge","Bono, The Edge",Tina Turner,38045000,,,Martin Campbell,Éric Serra,0,0,N,N,N,N,N,N
+199513,1995,Gangsta's Paradise,Dangerous Minds,"Coolio, Doug Rasheed, Larry Sanders, Stevie Wonder","Coolio, Doug Rasheed, Larry Sanders",Coolio,2574270000,,,John N. Smith,Wendy & Lisa,0,0,N,N,N,N,N,N
+199601,1996,You Must Love Me,Evita,Andrew Lloyd Webber,Tim Rice,Madonna,6390000,,,Alan Parker,,5,1,Y,Y,N,N,N,N
+199602,1996,That Thing You Do!,That Thing You Do!,Adam Schlesinger,Adam Schlesinger,The Wonders,42765000,,,Tom Hanks,,1,0,Y,N,N,N,N,N
+199603,1996,I Finally Found Someone,The Mirror Has Two Faces,"Barbra Streisand, Marvin Hamlisch, Bryan Adams, Robert 'Mutt' Lange","Barbra Streisand, Marvin Hamlisch, Bryan Adams, Robert 'Mutt' Lange","Barbra Streisand, Bryan Adams",137620000,,,Barbra Streisand,,2,0,Y,N,N,N,N,N
+199604,1996,Because You Loved Me,Up Close & Personal,Diane Warren,Diane Warren,Céline Dion,617182000,,,Jon Avnet,,1,0,Y,N,Y,N,Y,N
+199605,1996,For The First Time,One Fine Day,"James Newton Howard, Jud J. Friedman, Allan Dennis Rich","James Newton Howard, Jud J. Friedman, Allan Dennis Rich",Kenny Loggins,19831000,,,Michael Hoffman,James Newton Howard,1,0,Y,N,N,N,N,N
+199701,1997,My Heart Will Go On,Titanic,James Horner,Will Jennings,Céline Dion,714970000,,,James Cameron,James Horner,14,11,Y,Y,Y,Y,Y,Y
+199702,1997,Miss Misery,Good Will Hunting,Elliott Smith,Elliott Smith,Elliott Smith,27270000,,,Gus Van Sant,Danny Elfman,9,2,Y,N,N,N,N,N
+199703,1997,How Do I Live,Con Air,Diane Warren,Diane Warren,LeAnn Rimes,319530000,,Trisha Yearwood,Simon West,,2,0,Y,N,Y,N,N,N
+199704,1997,Go The Distance,Hercules,Alan Menken,David Zippel,Michael Bolton,62459000,,,"John Musker, Ron Clements",Alan Menken,1,0,Y,N,N,N,N,N
+199705,1997,Journey To The Past,Anastasia,Stephen Flaherty,Lynn Ahrens,"Aaliyah, Liz Callaway",23077000,,,"Don Bluth, Gary Goldman",David Newman,2,0,Y,N,,,,
+199712,1997,Beautiful That Way,Life Is Beautiful,Nicola Piovani,"Noa, Nuria Diaz, Raquel Diaz",Noa,15828000,,,Roberto Benigni,Nicola Piovani,7,3,N,N,N,N,N,N
+199713,1997,Metroland,Metroland,Mark Knopfler,Mark Knopfler,Mark Knopfler,109800,,Jorcx,Philip Saville,Mark Knopfler,0,0,N,N,N,N,N,N
+199714,1997,Wag The Dog,Wag The Dog,Mark Knopfler,Mark Knopfler,Mark Knopfler,680000,,,Barry Levinson,Mark Knopfler,2,0,N,N,N,N,N,N
+199715,1997,Tomorrow Never Dies,Tomorrow Never Dies,"Sheryl Crow, Mitchell Froom","Sheryl Crow, Mitchell Froom",Sheryl Crow,18282000,,,Roger Spottiswoode,David Arnold,0,0,N,N,Y,N,N,N
+199801,1998,When You Believe,The Prince of Egypt,Stephen Schwartz,Stephen Schwartz,"Whitney Houston, Mariah Carey",208470000,,,"Simon Wells, Brenda Chapman, Steve Hickner","Stephen Schwartz, Hans Zimmer",2,1,Y,Y,N,N,N,N
+199802,1998,I Don't Want To Miss A Thing,Armageddon,Diane Warren,Diane Warren,Aerosmith,1389100000,,,Michael Bay,,4,0,Y,N,Y,N,N,N
+199803,1998,A Soft Place To Fall,The Horse Whisperer,"Allison Moorer, Gwil Owen","Allison Moorer, Gwil Owen",Allison Moorer,5506000,,,Robert Redford,Thomas Newman,1,0,Y,N,N,N,N,N
+199804,1998,That'll Do,Babe: Pig in the City,Randy Newman,Randy Newman,"Peter Gabriel, Paddy Moloney",935400,,,George Miller,Nigel Westlake,1,0,Y,N,N,N,N,N
+199805,1998,The Prayer,Quest for Camelot,"Carole Bayer Sager, David Foster","Carole Bayer Sager, David Foster","Céline Dion, Andrea Bocelli",171464000,,,Frederik Du Chau,Patrick Doyle,1,0,Y,N,N,N,N,N
+199812,1998,Iris,City Of Angels,John Rzeznik,John Rzeznik,The Goo Goo Dolls,3522534000,,,Brad Silberling,Gabriel Yared,0,0,N,N,Y,N,N,N
+199901,1999,You'll Be In My Heart,Tarzan,Phil Collins,Phil Collins,Phil Collins,555900000,502700000,NIKI,"Chris Buck, Kevin Lima",,1,1,Y,Y,N,N,N,N
+199902,1999,Save Me,Magnolia,Aimee Mann,Aimee Mann,Aimee Mann,48080000,,,Paul Thomas Anderson,,3,0,Y,N,N,N,N,N
+199903,1999,Music Of My Heart,Music of the Heart,Diane Warren,Diane Warren,"Gloria Estefan, *NSYNC",12480000,,,Wes Craven,,2,0,Y,N,N,N,N,N
+199904,1999,When She Loved Me,Toy Story 2,Randy Newman,Randy Newman,Sarah McLachlan,117338000,,,John Lasseter,Randy Newman,1,0,Y,N,N,N,N,N
+199905,1999,Blame Canada,"South Park: Bigger, Longer & Uncut","Trey Parker, Marc Shaiman","Trey Parker, Marc Shaiman",Geek Music,894700,,,Trey Parker,Marc Shaiman,1,0,Y,N,N,N,N,N
+199912,1999,The World Is Not Enough,The World Is Not Enough,David Arnold,"David Arnold, Don Black",Garbage,34935000,,,Michael Apted,David Arnold,0,0,N,N,N,N,N,N
+200001,2000,Things Have Changed,Wonder Boys,Bob Dylan,Bob Dylan,Bob Dylan,20790000,,,Curtis Hanson,,3,1,Y,Y,N,N,N,N
+200002,2000,A Love Before Time,"Crouching Tiger, Hidden Dragon","Jorge Calandrelli, Tan Dun",James Schamus,Jorge Calandrelli,1190000,,,Ang Lee,Tan Dun,10,4,Y,N,N,N,N,N
+200003,2000,I've Seen It All,Dancer in the Dark,Björk,"Björk, Sjon Sigurdsson, Lars von Trier",Björk,6980000,,,Lars von Trier,,1,0,Y,N,N,N,N,N
+200004,2000,A Fool In Love,Meet the Parents,Randy Newman,Randy Newman,Randy Newman,271200,,,Jay Roach,,1,0,Y,N,N,N,N,N
+200005,2000,My Funny Friend And Me,The Emperor's New Groove,"Sting, David Hartley",Sting,Sting,5033000,,,Mark Dindal,,1,0,Y,N,N,N,N,N
+200101,2001,If I Didn't Have You,"Monsters, Inc.",Randy Newman,Randy Newman,"Billy Crystal, John Goodman",55700000,2900000,Randy Newman,Pete Docter,Randy Newman,4,1,Y,Y,N,N,N,N
+200102,2001,Until,Kate & Leopold,Sting,Sting,Sting,,47500,Mister Montelli,James Mangold,,1,0,Y,N,N,N,N,N
+200103,2001,There You'll Be,Pearl Harbor,Diane Warren,Diane Warren,Faith Hill,143164300,,,Michael Bay,,4,1,Y,N,N,N,N,N
+200104,2001,May It Be,The Lord of the Rings: The Fellowship of the Ring,"Enya, Nicky Ryan, Roma Ryan","Enya, Nicky Ryan, Roma Ryan",Enya,275140000,,,Peter Jackson,Howard Shore,13,4,Y,N,N,N,N,N
+200105,2001,Vanilla Sky,Vanilla Sky,Paul McCartney,Paul McCartney,Paul McCartney,1160000,,,Cameron Crowe,,,,Y,N,N,N,N,N
+200201,2002,Lose Yourself,8 Mile,"Eminem, Jeff Bass, Luis Resto","Eminem, Jeff Bass, Luis Resto",Eminem,2948917000,,,Curtis Hanson,,1,1,Y,Y,Y,N,Y,N
+200202,2002,I Move On,Chicago,John Kander,Fred Ebb,"Catherine Zeta-Jones, Renée Zellweger",4390000,,,Rob Marshall,,13,6,Y,N,N,N,N,N
+200203,2002,Burn It Blue,Frida,Elliot Goldenthal,Julie Taymor,"Caetano Veloso, Lila Downs",2827000,,,Julie Taymor,Elliot Goldenthal,6,2,Y,N,N,N,N,N
+200204,2002,The Hands That Built America,Gangs of New York,"Bono, The Edge, Adam Clayton, Larry Mullen","Bono, The Edge, Adam Clayton, Larry Mullen",U2,1244000,,,Martin Scorsese,,10,0,Y,N,N,N,N,N
+200205,2002,Father And Daughter,The Wild Thornberrys Movie,Paul Simon,Paul Simon,Paul Simon,28039000,,,"Cathy Malkasian, Jeff McGrath",,,,Y,N,N,N,N,N
+200212,2002,Die Another Day,Die Another Day,"Madonna, Mirwais Ahmadzai","Madonna, Mirwais Ahmadzai",Madonna,53046000,,,Lee Tamahori,David Arnold,0,0,N,N,N,N,N,N
+200301,2003,Into The West,The Lord of the Rings: The Return of the King,"Fran Walsh, Howard Shore, Annie Lennox","Fran Walsh, Howard Shore, Annie Lennox",Annie Lennox,43800000,,,Peter Jackson,Howard Shore,11,11,Y,Y,N,N,N,N
+200302,2003,Scarlet Tide,Cold Mountain,"T Bone Burnett, Elvis Costello","T Bone Burnett, Elvis Costello",Alison Krauss,1740000,,,Anthony Minghella,Gabriel Yared,7,1,Y,N,N,N,N,N
+200303,2003,You Will Be My Ain True Love,Cold Mountain,Sting,Sting,Alison Krauss,6100000,,,Anthony Minghella,Gabriel Yared,7,1,Y,N,N,N,N,N
+200304,2003,A Kiss At The End Of The Rainbow,A Mighty Wind,"Michael McKean, Annette O'Toole","Michael McKean, Annette O'Toole",Mitch & Mickey,623000,,,Christopher Guest,,1,0,Y,N,N,N,N,N
+200305,2003,Belleville Rendez-vous,The Triplets of Belleville,Benoît Charest,Sylvain Chomet,-M-,4319000,,,Sylvain Chomet,Benoît Charest,2,0,Y,N,N,N,N,N
+200401,2004,Al Otro Lado Del Río,The Motorcycle Diaries,Jorge Drexler,Jorge Drexler,Jorge Drexler,33900000,,,Walter Salles,,2,1,Y,Y,N,N,N,N
+200402,2004,Accidentally In Love,Shrek 2,"Adam Duritz, Charles Gillingham, Jim Bogios, David Immergluck, Matthew Malley, David Bryson","Adam Duritz, Daniel Vickrey",Counting Crows,597000000,,,"Kelly Asbury, Andrew Adamson, Conrad Vernon",,2,0,Y,N,N,N,N,N
+200403,2004,Learn To Be Lonely,The Phantom of the Opera,Andrew Lloyd Webber,Charles Hart,"Minnie Driver, Andrew Lloyd Webber",9520000,,,Joel Schumacher,,3,0,Y,N,N,N,N,N
+200404,2004,Believe,The Polar Express,"Glen Ballard, Alan Silvestri","Glen Ballard, Alan Silvestri",Josh Groban,70330000,,,Robert Zemeckis,,3,0,Y,N,N,N,N,N
+200405,2004,In The Deep,Crash,"Bird York, Michael Becker",Bird York,Bird York,,,,Paul Haggis,Mark Isham,6,3,Y,N,N,N,N,N
+200406,2004,Look To Your Path (Vois Sur Ton Chemin),The Chorus,Bruno Coulais,Christophe Barratier,Bruno Coulais,65695000,,,Christophe Barratier,Bruno Coulais,1,0,Y,N,N,N,N,N
+200501,2005,It's Hard Out Here For A Pimp,Hustle & Flow,"Jordan Houston, Cedric Coleman, Paul Beauregard","Jordan Houston, Cedric Coleman, Paul Beauregard","Three 6 Mafia, Paula Campbell",26000000,,,Craig Brewer,,2,1,Y,Y,N,N,N,N
+200502,2005,Travelin' Thru,Transamerica,Dolly Parton,Dolly Parton,Dolly Parton,849000,,,Duncan Tucker,,2,0,Y,N,N,N,N,N
+200601,2006,I Need To Wake Up,An Inconvenient Truth,Melissa Etheridge,Melissa Etheridge,Melissa Etheridge,1577000,,,Davis Guggenheim,,2,2,Y,Y,N,N,N,N
+200602,2006,Our Town,Cars,Randy Newman,Randy Newman,James Taylor,36030000,,,John Lasseter,,2,0,Y,N,N,N,N,N
+200603,2006,Listen,Dreamgirls,"Henry Krieger, Scott Cutler",Anne Preven,Beyoncé,171783000,,,Bill Condon,,8,2,Y,N,N,N,N,N
+200604,2006,Love You I Do,Dreamgirls,Henry Krieger,Siedah Garrett,Jennifer Hudson,22161000,,,Bill Condon,"Tom Eyen, Henry Krieger",8,2,Y,N,N,N,N,N
+200605,2006,Patience,Dreamgirls,Henry Krieger,Willie Reale,"Eddie Murphy, Anika Noni Rose",4483000,,,Bill Condon,"Tom Eyen, Henry Krieger",8,2,Y,N,N,N,N,N
+200612,2006,You Know My Name,Casino Royale,"Chris Cornell, David Arnold","Chris Cornell, David Arnold",Chris Cornell,111120000,,,Martin Campbell,David Arnold,0,0,N,N,Y,N,N,N
+200701,2007,Falling Slowly,Once,"Glen Hansard, Marketa Irglova","Glen Hansard, Marketa Irglova","Glen Hansard, Markéta Irglová",144685000,,,John Carney,,1,1,Y,Y,N,N,N,N
+200702,2007,Happy Working Song,Enchanted,Alan Menken,Stephen Schwartz,Amy Adams,48800000,,,Kevin Lima,,3,0,Y,N,N,N,N,N
+200703,2007,That's How You Know,Enchanted,Alan Menken,Stephen Schwartz,Amy Adams,88530000,,,Kevin Lima,,3,0,Y,N,N,N,N,N
+200704,2007,So Close,Enchanted,Alan Menken,Stephen Schwartz,Jon McLaughlin,76380000,,,Kevin Lima,,3,0,Y,N,N,N,N,N
+200705,2007,Raise It Up,August Rush,"Jamal Joseph, Charles Mack, Tevin Thomas","Jamal Joseph, Charles Mack, Tevin Thomas","Jamia Simone Nash, Impact Repertory Theatre",3199000,,,Kirsten Sheridan,Mark Mancina,1,0,Y,N,N,N,N,N
+200712,2007,Huck's Tune,Lucky You,Bob Dylan,Bob Dylan,Bob Dylan,925700,,,Curtis Hanson,Christopher Young,0,0,N,N,N,N,N,N
+200801,2008,Jai Ho (You Are My Destiny),Slumdog Millionaire,A. R. Rahman,Gulzar,Sukhwinder Singh,4029000,193220000,The Pussycat Dolls,Danny Boyle,A. R. Rahman,10,8,Y,Y,N,N,N,N
+200802,2008,Down To Earth,WALL·E,"Peter Gabriel, Thomas Newman",Peter Gabriel,"Peter Gabriel, Soweto Gospel Choir",15729000,,,Andrew Stanton,Thomas Newman,6,1,Y,N,N,N,N,N
+200803,2008,Loin De Paname,Paris 36,Reinhardt Wagner,Frank Thomas,Nora Arnezeder,116000,,,Christophe Barratier,Reinhardt Wagner,1,0,Y,N,N,N,N,N
+200812,2008,Another Way To Die,Quantum Of Solace,Jack White,Jack White,"Alicia Keys, Jack White",59511000,,,Marc Forster,David Arnold,0,0,N,N,N,N,N,N
+200813,2008,Decode,Twilight,"Hayley Williams, Josh Farro, Taylor York","Hayley Williams, Josh Farro, Taylor York",Paramore,554516000,,,Catherine Hardwicke,Carter Burwell,0,0,N,N,Y,N,N,N
+200901,2009,The Weary Kind,Crazy Heart,"Ryan Bingham, T Bone Burnett","Ryan Bingham, T Bone Burnett",Ryan Bingham,38197000,,,Scott Cooper,,3,2,Y,Y,N,N,N,N
+200903,2009,Almost There,The Princess and the Frog,Randy Newman,Randy Newman,Anika Noni Rose,224260000,,,"John Musker, Ron Clements",,3,0,Y,N,N,N,N,N
+200904,2009,Down In New Orleans,The Princess and the Frog,Randy Newman,Randy Newman,Dr. John,41600000,13600000,Anika Noni Rose,"John Musker, Ron Clements",,3,0,Y,N,N,N,N,N
+201001,2010,We Belong Together,Toy Story 3,Randy Newman,Randy Newman,Randy Newman,18820000,,,Lee Unkrich,,5,2,Y,Y,N,N,N,N
+201002,2010,If I Rise,127 Hours,A. R. Rahman,"Dido, Rollo Armstrong","Dido, A. R. Rahman",4293000,,,Danny Boyle,A. R. Rahman,6,0,Y,N,N,N,N,N
+201003,2010,I See The Light,Tangled,Alan Menken,Glenn Slater,"Zachary Levi, Mandy Moore",437674000,,,"Byron Howard, Nathan Greno",Alan Menken,1,0,Y,N,N,N,N,N
+201004,2010,Coming Home,Country Strong,"Tom Douglas, Troy Verges, Hillary Lindsey","Tom Douglas, Troy Verges, Hillary Lindsey",Gwyneth Paltrow,5249500,,,Shana Feste,Michael Brook,1,0,Y,N,N,N,N,N
+201101,2011,Man Or Muppet,The Muppets,Bret McKenzie,Bret McKenzie,"Jason Segel, Walter",29770000,,,James Bobin,,1,1,,Y,N,N,N,N
+201102,2011,Real In Rio,Rio,"Sergio Mendes, Carlinhos Brown",Siedah Garrett,"Jesse Eisenberg, Jamie Foxx, Anne Hathaway, George Lopez, will.i.am, The Rio Singers",26393000,,,Carlos Saldanha,,1,0,Y,N,N,N,N,N
+201112,2011,A Thousand Years,The Twilight Saga: Breaking Dawn - Part 1,"Christina Perri, David Hodges","Christina Perri, David Hodges",Christina Perri,2323451000,,,Bill Condon,Carter Burwell,0,0,N,N,N,N,N,N
+201201,2012,Skyfall,Skyfall,"Adele, Paul Epworth","Adele, Paul Epworth",Adele,1393000000,,,Sam Mendes,Thomas Newman,5,2,Y,Y,N,N,N,N
+201202,2012,Suddenly,Les Misérables,Claude-Michel Schönberg,"Herbert Kretzmer, Alain Boublil",Hugh Jackman,11440000,,,Tom Hooper,,8,3,Y,N,N,N,N,N
+201203,2012,Pi's Lullaby,Life of Pi,Mychael Danna,Bombay Jayashri,"Mychael Danna, Bombay Jayashri",10910000,,,Ang Lee,Mychael Danna,11,4,Y,N,N,N,N,N
+201204,2012,Everybody Needs A Best Friend,Ted,Walter Murphy,Seth MacFarlane,Norah Jones,3054000,,,Seth MacFarlane,,1,0,Y,N,N,N,N,N
+201205,2012,Before My Time,Chasing Ice,J Ralph,J Ralph,J Ralph,1372000,,,Jeff Orlowski,J Ralph,1,0,Y,N,N,N,N,N
+201301,2013,Let It Go,Frozen,"Kristen Anderson-Lopez, Robert Lopez","Kristen Anderson-Lopez, Robert Lopez",Idina Menzel,1024000000,,,"Chris Buck, Jennifer Lee",,2,2,Y,Y,N,N,N,N
+201302,2013,Happy,Despicable Me 2,Pharrell Williams,Pharrell Williams,Pharrell Williams,1780000000,,,"Chris Renaud, Pierre Coffin",,2,0,Y,N,N,N,N,N
+201303,2013,The Moon Song,Her,Karen O,"Karen O, Spike Jonze",Karen O,17593000,32485000,"Scarlett Johansson, Joaquin Phoenix",Spike Jonze,"William Butler, Owen Pallett",5,1,Y,N,N,N,N,N
+201304,2013,Ordinary Love,Mandela: Long Walk to Freedom,"Bono, The Edge, Adam Clayton, Larry Mullen Jr., Brian Burton","Bono, Brian Burton",U2,3486000,,,Justin Chadwick,,1,0,Y,N,N,N,N,N
+201312,2013,Young And Beautiful,The Great Gatsby,"Lana Del Rey, Rick Nowels","Lana Del Rey, Rick Nowels",Lana Del Rey,2178070000,,,Baz Luhrmann,Craig Armstrong,2,2,N,N,Y,N,Y,N
+201313,2013,Reis Del Món,"Barcelona, nit d'estiu",Joan Dausà,Joan Dausà,Joan Dausà,2198000,,,Dani De La Orden,Joan Dausà,0,0,N,N,N,N,,
+201401,2014,Glory,Selma,"John Legend, Lonnie Lynn","John Legend, Lonnie Lynn","Common, John Legend",64193000,,,Ava DuVernay,,2,1,Y,Y,N,N,N,N
+201402,2014,Lost Stars,Begin Again,"Gregg Alexander, Danielle Brisebois","Gregg Alexander, Danielle Brisebois",Adam Levine,405311000,,,John Carney,,1,0,Y,N,N,N,N,N
+201403,2014,I'm Not Gonna Miss You,Glen Campbell: I'll Be Me,"Glen Campbell, Julian Raymond","Glen Campbell, Julian Raymond",Glen Campbell,5585000,,,James Keach,Julian Raymond,1,0,Y,N,N,N,N,N
+201404,2014,Grateful,Beyond the Lights,Diane Warren,Diane Warren,Rita Ora,12721000,,,Gina Prince-Bythewood,"Mark Isham, Jon Mills",1,0,Y,N,N,N,N,N
+201405,2014,Everything Is Awesome,The Lego Movie,Shawn Patterson,Shawn Patterson,"Tegan and Sara, The Lonely Island",75183000,,,"Phil Lord, Christopher Miller",Mark Mothersbaugh,1,0,Y,N,N,N,N,N
+201501,2015,Writing's On The Wall,Spectre,"Jimmy Napes, Sam Smith","Jimmy Napes, Sam Smith",Sam Smith,308490000,,,Sam Mendes,,1,1,Y,Y,N,N,N,N
+201502,2015,Earned It,Fifty Shades of Grey,"The Weeknd, Ahmad Balshe, Jason Quenneville, Stephan Moccio","The Weeknd, Ahmad Balshe, Jason Quenneville, Stephan Moccio",The Weeknd,2172687000,,,Sam Taylor-Johnson,,1,0,Y,N,N,N,N,N
+201503,2015,Til It Happens To You,The Hunting Ground,"Diane Warren, Lady Gaga","Diane Warren, Lady Gaga",Lady Gaga,49093000,,,Kirby Dick,,1,0,Y,N,N,N,N,N
+201504,2015,Simple Song #3,Youth,David Lang,David Lang,Sumi Jo,4164000,,,Paolo Sorrentino,David Lang,1,0,Y,N,N,N,N,N
+201505,2015,Manta Ray,Racing Extinction,J Ralph,Anohni,"J Ralph, Anohni",2305000,,,Louie Psihoyos,J Ralph,1,0,Y,N,N,N,N,N
+201512,2015,See You Again,Furious 7,"Charlie Puth, Andrew Cedar, Cameron Thomaz, Dann Hume, Joshua Karl Simon Hardy, Justin Franks, Phoebe Cockburn","Charlie Puth, Andrew Cedar, Cameron Thomaz, Dann Hume, Joshua Karl Simon Hardy, Justin Franks, Phoebe Cockburn","Wiz Khalifa, Charlie Puth",2457387600,,,James Wan,Brian Tyler,0,0,N,N,Y,N,N,N
+201601,2016,City Of Stars,La La Land,Justin Hurwitz,"Benj Pasek, Justin Paul","Ryan Gosling, Emma Stone",321652000,,,Damien Chazelle,Justin Hurwitz,14,6,Y,Y,N,N,N,N
+201602,2016,Audition (The Fools Who Dream),La La Land,Justin Hurwitz,"Benj Pasek, Justin Paul",Emma Stone,83314000,,,Dalibor Miljevic,Justin Hurwitz,14,6,Y,N,N,N,N,N
+201603,2016,Can't Stop The Feeling,Trolls,"Justin Timberlake, Max Martin, Karl Johan Schuster","Justin Timberlake, Max Martin, Karl Johan Schuster",Justin Timberlake,2074161900,,,Mike Mitchell,,1,0,Y,N,N,N,N,N
+201604,2016,The Empty Chair,Jim: The James Foley Story,"J Ralph, Sting","J Ralph, Sting",Sting,2379000,,,Brian Oakes,,1,0,Y,N,N,N,N,N
+201605,2016,How Far I'll Go,Moana,Lin-Manuel Miranda,Lin-Manuel Miranda,Alessia Cara,806250000,,,"John Musker, Ron Clements",Mark Mancina,2,0,Y,N,N,N,N,N
+201612,2016,Zen Zen Zense,Your Name,Yojiro Noda,Yojiro Noda,RADWIMPS,171044000,,,Makoto Shinkai,Radwimps,0,0,N,N,N,N,N,N
+201701,2017,Remember Me,Coco,"Kristen Anderson-Lopez, Robert Lopez","Kristen Anderson-Lopez, Robert Lopez","Gael Garcia Bernal, Gabriella Flores, Libertad García Fonzi",154072000,,,Lee Unkrich,,2,2,Y,Y,N,N,N,N
+201702,2017,Mystery Of Love,Call Me by Your Name,Sufjan Stevens,Sufjan Stevens,Sufjan Stevens,793165000,,,Luca Guadagnino,,4,1,Y,N,N,N,N,N
+201703,2017,Mighty River,Mudbound,"Mary J. Blige, Raphael Saadiq, Taura Stinson","Mary J. Blige, Raphael Saadiq, Taura Stinson",Mary J. Blige,3122000,,,Dee Rees,,4,0,Y,N,N,N,N,N
+201704,2017,Stand Up For Something,Marshall,Diane Warren,"Lonnie R. Lynn, Diane Warren","Andra Day, Common",6186000,,,Reginald Hudlin,Marcus Miller,1,0,Y,N,N,N,N,N
+201801,2018,Shallow,A Star Is Born,"Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt","Lady Gaga, Mark Ronson, Anthony Rossomando, Andrew Wyatt","Lady Gaga, Bradley Cooper",3118711700,,,Bradley Cooper,,8,1,Y,Y,Y,N,Y,N
+201802,2018,All The Stars,Black Panther,"Kendrick Lamar, Mark ""Sounwave"" Spears, Anthony ""Top Dawg"" Tiffith","Kendrick Lamar, SZA, Anthony ""Top Dawg"" Tiffith","Kendrick Lamar, SZA",3066500000,,,Ryan Coogler,Ludwig Göransson,7,3,Y,N,Y,N,Y,N
+201803,2018,The Place Where Lost Things Go,Mary Poppins Returns,Marc Shaiman,"Scott Wittman, Marc Shaiman",Emily Blunt,33890000,,,Rob Marshall,Marc Shaiman,4,0,Y,N,N,N,N,N
+201804,2018,I'll Fight,RBG,Diane Warren,Diane Warren,Jennifer Hudson,1993700,,,"Julie Cohen, Betsy West",,2,0,Y,N,N,N,N,N
+201805,2018,When A Cowboy Trades His Spurs For Wings,The Ballad of Buster Scruggs,"Gillian Welch, David Rawlings","Gillian Welch, David Rawlings","Tim Blake Nelson, Willie Watson",13219000,,,"Joel Coen, Ethan Coen",,3,0,Y,N,N,N,N,N
+201812,2018,Sunflower,Spider-Man: Into The Spider-Verse,"Swae Lee, Louis Bell, Post Malone, Billy Walsh, Carter Lang, Carl Rosen","Swae Lee, Louis Bell, Post Malone, Billy Walsh, Carter Lang, Carl Rosen","Post Malone, Swae Lee",4319245000,,,"Bob Persichetti, Peter Ramsey, Rodney Rothman",Daniel Pemberton,1,1,N,N,N,N,N,N
+201901,2019,(I'm Gonna) Love Me Again,Rocketman,Elton John,Bernie Taupin,Elton John,30930500,,,Dexter Fletcher,,1,1,Y,Y,N,N,N,N
+201902,2019,I Can't Let You Throw Yourself Away,Toy Story 4,Randy Newman,Randy Newman,Randy Newman,42440500,,,Josh Cooley,,2,1,Y,N,N,N,N,N
+201903,2019,Stand Up,Harriet,"Joshuah Brian Campbell, Cynthia Erivo","Joshuah Brian Campbell, Cynthia Erivo",Cynthia Erivo,201719000,,,Kasi Lemmons,Terence Blanchard,2,0,Y,N,N,N,N,N
+201904,2019,Into The Unknown,Frozen II,"Kristen Anderson-Lopez, Robert Lopez","Kristen Anderson-Lopez, Robert Lopez","Idina Menzel, Aurora",548342000,,,"Chris Buck, Jennifer Lee",Christophe Beck,1,0,Y,N,N,N,N,N
+201905,2019,I'm Standing With You,Breakthrough,Diane Warren,Diane Warren,Chrissy Metz,3025000,,,Roxann Dawson,Marcelo Zarvos,1,0,Y,N,N,N,N,N
+202001,2020,Fight For You,Judas and the Black Messiah,"H.E.R., Dernst Emile II","H.E.R., Tiara Thomas",H.E.R.,16891000,,,Shaka King,,6,2,Y,Y,Y,N,N,N
+202002,2020,Io Sì (Seen),The Life Ahead,Diane Warren,"Diane Warren, Laura Pausini",Laura Pausini,12544000,,,Edoardo Ponti,,1,0,Y,N,N,N,N,N
+202003,2020,Hear My Voice,The Trial of the Chicago 7,Daniel Pemberton,"Daniel Pemberton, Celeste Waite",Celeste,7852000,,,Aaron Sorkin,Daniel Pemberton,6,0,Y,N,N,N,N,N
+202004,2020,Speak Now,One Night in Miami...,"Leslie Odom Jr., Sam Ashworth","Leslie Odom Jr., Sam Ashworth",Leslie Odom Jr.,4418000,,,Regina King,Terence Blanchard,3,0,Y,N,N,N,N,N
+202012,2020,Homura,Demon Slayer: Mugen Train,Yuki Kajiura,"Yuki Kajiura, LiSA",LiSA,224576000,,,Haruo Sotozaki,"Yuki Kajiura, Go Shiina",0,0,N,N,N,N,N,N
+202013,2020,Somehow You Do,Four Good Days,Diane Warren,Diane Warren,Reba McEntire,2749000,,,Rodrigo García,Edward Shearmur,1,0,Y,N,N,N,N,N
+202101,2021,No Time To Die,No Time to Die,"Billie Eilish, Finneas O'Connell","Billie Eilish, Finneas O'Connell",Billie Eilish,797166000,,,Cary Joji Fukunaga,,3,1,Y,Y,N,N,N,N
+202102,2021,Down To Joy,Belfast,Van Morrison,Van Morrison,Van Morrison,2994000,,,Kenneth Branagh,,7,1,Y,N,N,N,N,N
+202103,2021,Dos Oruguitas,Encanto,Lin-Manuel Miranda,Lin-Manuel Miranda,Sebastián Yatra,261813000,,,"Jared Bush, Byron Howard",Germaine Franco,3,1,Y,N,N,N,N,N
+202104,2021,Be Alive,King Richard,"DIXSON, Beyoncé Knowles-Carter","DIXSON, Beyoncé Knowles-Carter",Beyoncé,27204000,,,Reinaldo Marcus Green,,6,1,Y,N,N,N,N,N
+202201,2022,Naatu Naatu,RRR,M. M. Keeravani,Chandrabose,"Rahul Sipligunj, Kaala Bhairava",83011000,,,S. S. Rajamouli,,1,1,Y,Y,N,N,N,N
+202202,2022,Lift Me Up,Black Panther: Wakanda Forever,"Tems, Rihanna, Ryan Coogler, Ludwig Göransson","Tems, Ryan Coogler",Rihanna,475232000,,,Ryan Coogler,,5,1,Y,N,N,N,N,N
+202203,2022,This Is A Life,Everything Everywhere All at Once,"Ryan Lott, David Byrne, Mitski","Ryan Lott, David Byrne","Son Lux, Mitski, David Byrne",22600000,,,"Dan Kwan, Daniel Scheinert",Son Lux,11,7,Y,N,N,N,N,N
+202204,2022,Hold My Hand,Top Gun: Maverick,"Lady Gaga, BloodPop","Lady Gaga, BloodPop",Lady Gaga,440270000,,,Joseph Kosinski,,6,1,Y,N,N,N,N,N
+202212,2022,Applause,Tell It like a Woman,Diane Warren,Diane Warren,Sofia Carson,2602000,,,"Lucia Bulgheroni, Silvia Carobbio, Catherine Hardwicke, Taraji P. Henson, Mipo O, Lucia Puenzo, Maria Sole Tognazzi, Leena Yadav","A. R. Rahman, Daniel Tarrab",1,0,Y,N,N,N,N,N
+202301,2023,What Was I Made For?,Barbie,"Billie Eilish, Finneas O'Connell","Billie Eilish, Finneas O'Connell",Billie Eilish,1636288500,,,Greta Gerwig,,8,1,Y,Y,Y,Y,Y,N
+202302,2023,I'm Just Ken,Barbie,"Mark Ronson, Andrew Wyatt","Mark Ronson, Andrew Wyatt",Ryan Gosling,162560000,,,Greta Gerwig,,8,1,Y,N,N,N,N,N
+202303,2023,Wahzhazhe (A Song for My People),Killers of the Flower Moon,Scott George,Scott George,"Robbie Robertson, Osage Tribal Singers",222800,,,Martin Scorsese,Robbie Robertson,10,0,Y,N,N,N,N,N
+202304,2023,It Never Went Away,American Symphony,"Jon Batiste, Dan Wilson","Jon Batiste, Dan Wilson",Jon Batiste,2184000,,,Matthew Heineman,Jon Batiste,1,0,Y,N,N,N,N,N
+202312,2023,The Fire Inside,Flamin' Hot,Diane Warren,Diane Warren,Becky G,2083000,,,Eva Longoria,Marcelo Zarvos,1,0,Y,N,N,N,N,N
+202401,2024,El Mal,Emilia Pérez,"Clément Ducol, Camille","Clément Ducol, Camille, Jacques Audiard","Zoe Saldaña, Camille, Karla Sofía Gascón",1496000,,,Jacques Audiard,"Clément Ducol, Camille",13,2,Y,Y,N,,,
+202402,2024,Mi Camino,Emilia Pérez,"Camille, Clément Ducol","Camille, Clément Ducol",Selena Gomez,3583000,,,Jacques Audiard,"Camille, Clément Ducol",13,2,Y,N,N,N,N,N
+202403,2024,The Journey,The Six Triple Eight,Diane Warren,Diane Warren,H.E.R.,7916000,,,Tyler Perry,,1,0,Y,N,N,N,N,N
+202404,2024,Like A Bird,Sing Sing,"Abraham Alexander, Adrian Quesada","Abraham Alexander, Adrian Quesada","Adrian Quesada, Abraham Alexander",1317000,,,Greg Kwedar,,3,0,Y,N,N,N,N,N
+202405,2024,Never Too Late,Elton John: Never Too Late,"Elton John, Brandi Carlile, Andrew Watt, Bernie Taupin","Elton John, Brandi Carlile, Andrew Watt, Bernie Taupin","Elton John, Brandi Carlile",3664000,,,"David Furnish, R. J. Cutler",,1,0,Y,N,N,N,N,N
+202501,2025,Golden,KPop Demon Hunters,"EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seo, Teddy Park","EJAE, Mark Sonnenblick, Joong Gyu Kwak, Yu Han Lee, Hee Dong Nam, Jeong Hoon Seo, Teddy Park","EJAE, HUNTR/X, REI AMI, AUDREY NUNA",1813500000,,,"Chris Appelhans, Maggie Kang",,2,2,Y,Y,Y,N,N,N
+202502,2025,I Lied To You,Sinners,"Raphael Saadiq, Ludwig Göransson","Raphael Saadiq, Ludwig Göransson",Miles Caton,27609000,,,Ryan Coogler,Ludwig Göransson,16,4,Y,N,N,N,N,N
+202503,2025,Train Dreams,Train Dreams,"Nick Cave, Bryce Dessner",Nick Cave,Sierra Ferrell,1660000,,,Clint Bentley,,4,0,Y,N,N,N,N,N
+202504,2025,Sweet Dreams Of Joy,Viva Verdi!,Nicholas Pike,Nicholas Pike,Nicholas Pike,25240,,,Yvonne Russo,,1,0,Y,N,N,N,N,N
+202505,2025,Dear Me,Diane Warren: Relentless,Diane Warren,Diane Warren,Kesha,1567000,,,Bess Kargman,,1,0,Y,N,N,N,N,N

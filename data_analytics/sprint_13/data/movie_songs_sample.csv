@@ -1,0 +1,6 @@
+song_id,year,song_title,film_title,song_composers,song_lyricists,original_artists,streams_original,streams_others,other_artists,film_directors,film_composers,oscar_nominations,oscar_wins,oscar_song_nominee,oscar_song_win,grammy_song_nominee,grammy_song_win,grammy_record_nominee,grammy_record_win
+193502,1935,Cheek To Cheek,Top Hat,Irving Berlin,Irving Berlin,Fred Astaire,28200000,210100000,Ella Fitzgerald,William A. Seiter,,4,0,Y,N,N,N,N,N
+196101,1961,Moon River,Breakfast at Tiffany's,Henry Mancini,Johnny Mercer,"Audrey Hepburn, Henry Mancini",129200000,68400000,Carla Bruni,Blake Edwards,Henry Mancini,5,2,Y,Y,Y,Y,Y,Y
+196313,1963,From Russia With Love,From Russia With Love,Lionel Bart,Lionel Bart,Matt Monro,23100000,,,Terence Young,John Barry,0,0,N,N,N,N,N,N
+198512,1985,Burning Heart,Rocky IV,"Jim Peterik, Frankie Sullivan","Jim Peterik, Frankie Sullivan",Survivor,416463000,,,Sylvester Stallone,Vince DiCola,0,0,N,N,N,N,N,N
+200812,2008,Another Way To Die,Quantum Of Solace,Jack White,Jack White,"Alicia Keys, Jack White",59511000,,,Marc Forster,David Arnold,0,0,N,N,N,N,N,N

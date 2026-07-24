@@ -1,0 +1,28 @@
+song_id,year,song_title,film_title,song_composers,song_lyricists,original_artists,streams_original,streams_others,other_artists,film_directors,film_composers,oscar_nominations,oscar_wins,oscar_song_nominee,oscar_song_win,grammy_song_nominee,grammy_song_win,grammy_record_nominee,grammy_record_win
+196212,1962,Under The Mango Tree,Dr. No,Monty Norman,Monty Norman,Diana Coupland,1373000,,,Terence Young,Monty Norman,0,0,N,N,N,N,N,N
+196313,1963,From Russia With Love,From Russia With Love,Lionel Bart,Lionel Bart,Matt Monro,23100000,,,Terence Young,John Barry,0,0,N,N,N,N,N,N
+196413,1964,Goldfinger,Goldfinger,"John Barry, Leslie Bricusse","John Barry, Leslie Bricusse",Shirley Bassey,36884000,,,Guy Hamilton,John Barry,1,1,N,N,N,N,N,N
+196512,1965,Thunderball,Thunderball,John Barry,Don Black,Tom Jones,6096000,,,Terence Young,John Barry,1,1,N,N,N,N,N,N
+196702,1967,The Look Of Love,Casino Royale,Burt Bacharach,Hal David,Dusty Springfield,51900000,120000000,Diana Krall,John Huston,,1,0,Y,N,N,N,N,N
+196713,1967,You Only Live Twice,You Only Live Twice,"John Barry, Leslie Bricusse","John Barry, Leslie Bricusse",Nancy Sinatra,16320000,,,Lewis Gilbert,John Barry,0,0,N,N,N,N,N,N
+196812,1968,We Have All The Time In The World,On Her Majesty's Secret Service,John Barry,Hal David,Louis Armstrong,38197000,,,Peter R. Hunt,John Barry,0,0,N,N,N,N,N,N
+197112,1971,Diamonds Are Forever,Diamonds Are Forever,John Barry,Don Black,Shirley Bassey,40268000,,,Guy Hamilton,John Barry,1,0,N,N,N,N,N,N
+197302,1973,Live And Let Die,Live and Let Die,"Paul McCartney, Linda McCartney","Paul McCartney, Linda McCartney","Paul McCartney, Wings",222750000,346600000,Guns N'Roses,Guy Hamilton,,1,0,Y,N,N,N,N,N
+197412,1974,The Man With The Golden Gun,The Man With The Golden Gun,John Barry,John Barry,Lulu,7273000,,,Guy Hamilton,John Barry,0,0,N,N,N,N,N,N
+197702,1977,Nobody Does It Better,The Spy Who Loved Me,Marvin Hamlisch,Carole Bayer Sager,Carly Simon,67700000,,,Lewis Gilbert,Marvin Hamlisch,3,0,Y,N,Y,N,N,N
+197912,1979,Moonraker,Moonraker,John Barry,Hal David,Shirley Bassey,13093000,,,Lewis Gilbert,John Barry,1,0,N,N,N,N,N,N
+198103,1981,For Your Eyes Only,For Your Eyes Only,Bill Conti,Mick Leeson,Sheena Easton,66100000,,,John Glen,,1,0,Y,N,N,N,N,N
+198312,1983,All Time High,Octopussy,John Barry,Tim Rice,Rita Coolidge,17024000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198313,1983,Never Say Never Again,Never Say Never Again,Michel Legrand,"Alan Bergman, Marilyn Bergman",Lani Hall,1440000,,,Irvin Kershner,MIchel Legrand,0,0,N,N,N,N,N,N
+198515,1985,A View To A Kill,A View To A Kill,"Simon Le Bon, Andy Taylor, Roger Taylor, Nick Rhodes, John Barry","Simon Le Bon, Andy Taylor, Roger Taylor, Nick Rhodes, John Barry",Duran Duran,128669000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198715,1987,The Living Daylights,The Living Daylights,"Paul Waaktaar-Savoy, John Barry","Paul Waaktaar-Savoy, John Barry",A-ha,35850000,,,John Glen,John Barry,0,0,N,N,N,N,N,N
+198912,1989,Licence To Kill,Licence To Kill,Jeffrey Cohen,Jeffrey Cohen,Gladys Knight,19349000,,,John Glen,Michael Kamen,0,0,N,N,N,N,N,N
+199512,1995,Goldeneye,Goldeneye,"Bono, The Edge","Bono, The Edge",Tina Turner,38045000,,,Martin Campbell,Éric Serra,0,0,N,N,N,N,N,N
+199715,1997,Tomorrow Never Dies,Tomorrow Never Dies,"Sheryl Crow, Mitchell Froom","Sheryl Crow, Mitchell Froom",Sheryl Crow,18282000,,,Roger Spottiswoode,David Arnold,0,0,N,N,Y,N,N,N
+199912,1999,The World Is Not Enough,The World Is Not Enough,David Arnold,"David Arnold, Don Black",Garbage,34935000,,,Michael Apted,David Arnold,0,0,N,N,N,N,N,N
+200212,2002,Die Another Day,Die Another Day,"Madonna, Mirwais Ahmadzai","Madonna, Mirwais Ahmadzai",Madonna,53046000,,,Lee Tamahori,David Arnold,0,0,N,N,N,N,N,N
+200612,2006,You Know My Name,Casino Royale,"Chris Cornell, David Arnold","Chris Cornell, David Arnold",Chris Cornell,111120000,,,Martin Campbell,David Arnold,0,0,N,N,Y,N,N,N
+200812,2008,Another Way To Die,Quantum Of Solace,Jack White,Jack White,"Alicia Keys, Jack White",59511000,,,Marc Forster,David Arnold,0,0,N,N,N,N,N,N
+201201,2012,Skyfall,Skyfall,"Adele Adkins, Paul Epworth","Adele Adkins, Paul Epworth",Adele,1393000000,,,Sam Mendes,Thomas Newman,5,2,Y,Y,N,N,N,N
+201501,2015,Writing's On The Wall,Spectre,"Jimmy Napes, Sam Smith","Jimmy Napes, Sam Smith",Sam Smith,308490000,,,Sam Mendes,,1,1,Y,Y,N,N,N,N
+202101,2021,No Time To Die,No Time to Die,"Billie Eilish, Finneas O'Connell","Billie Eilish, Finneas O'Connell",Billie Eilish,797166000,,,Cary Joji Fukunaga,,3,1,Y,Y,N,N,N,N
